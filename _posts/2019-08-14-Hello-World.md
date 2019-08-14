@@ -1,3 +1,0 @@
-Testing
-one two
-three
