@@ -18,4 +18,5 @@ permalink: /about/
 - [Azure governance](https://docs.microsoft.com/en-us/azure/governance/)  
 
 - [Azure documentation](https://docs.microsoft.com/en-us/azure/)
+
 - [Azure pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator/)  
