@@ -114,3 +114,4 @@ tag_archive:
 analytics:
   provider: "custom"
 
+logo: "/assets/images/favicon-32x32.png"
