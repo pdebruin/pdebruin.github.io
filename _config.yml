@@ -65,19 +65,19 @@ author:
       url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/pieter_de_bruin"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/pdebruin"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/pieter_de_bruin"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/pdebruin"
 
 defaults:
   # _posts
@@ -105,3 +105,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+og_image: /assets/images/pieter.jpg
+
+analytics:
+  provider: "custom"
+
