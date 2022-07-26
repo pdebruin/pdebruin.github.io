@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Pieter de Bruin"
-  avatar : "/assets/images/pieter.jpg"
+  avatar : "/assets/images/pieter-200-r.jpg"
   bio    : "Helps technical experts share their experiences in the Microsoft cloud."
   links:
     - label: "LinkedIn"
@@ -109,7 +109,7 @@ tag_archive:
   type: liquid
   path: /tags/
 
-og_image: /assets/images/pieter.jpg
+# og_image: /assets/images/pieter-200-r.jpg
 
 analytics:
   provider: "custom"
