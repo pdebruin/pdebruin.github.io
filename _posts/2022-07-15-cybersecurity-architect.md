@@ -1,6 +1,5 @@
 ---
 title: "Cybersecurity architect"
-date: 2022-07-14T12:00:00
 categories:
   - Technology
 tags:

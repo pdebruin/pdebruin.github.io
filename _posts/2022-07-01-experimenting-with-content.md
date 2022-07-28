@@ -1,5 +1,5 @@
 ---
-title: "Contributing"
+title: "Experimenting with content"
 categories:
   - Learning
 tags:
@@ -7,4 +7,4 @@ tags:
   - Community
 ---
 
-On July 1
+On June 30
