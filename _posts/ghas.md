@@ -5,7 +5,6 @@ categories:
 tags:
   - Scrum
   - Agile
-draft: true
 ---
 
 intro
