@@ -1,11 +1,13 @@
 ---
-title: "ghas"
+title: "GitHub certification"
 categories:
   - Learning
 tags:
   - Scrum
   - Agile
 ---
+
+LG recently shared he had found and passed new GitHub certifications. Since one of on security, I definitely wanted to do that too. 
 
 intro
 

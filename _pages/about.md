@@ -2,6 +2,4 @@
 permalink: /about/
 title: "About"
 ---
-Do better every day :-)
-
-Pieter is program manager, solution architect, trusted advisor, player-coach, mentor, open-source enthusiast. Making others look cool. Lifelong learner. Diversity and inclusion advocate. He is a good-weather cyclist, bad-weather guitarist and all-weather cook.
+Things I observed on my cloud journey. Mostly notes to self. May be useful to you too :-)

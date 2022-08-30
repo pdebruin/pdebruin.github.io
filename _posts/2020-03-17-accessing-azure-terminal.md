@@ -1,5 +1,5 @@
 ---
-title: "Accessing Microsoft Azure using powershell or cli from Windows and Linux in Windows Terminal"
+title: "Accessing Microsoft Azure using powershell or command-line interface"
 categories:
   - Technology
 tags:
