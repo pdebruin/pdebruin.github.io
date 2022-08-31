@@ -7,13 +7,8 @@ tags:
   - Agile
 ---
 
-Check out these six #videos by April Edwards
-and Christos Matskas on Getting started with #Microsoft #Identity:
-https://lnkd.in/gSX-DfAU #entra #azureactivedirectory
+Check out these six videos by [April Edwards](https://twitter.com/TheAprilEdwards) and [Christos Matskas](https://twitter.com/ChristosMatskas) on Getting started with Microsoft Identity.
 
+!img
 
-
-Check out [zero trust learning path][zero-trust-learning-path].
-
-[zero-trust-learning-path]: https://docs.microsoft.com/learn/paths/zero-trust-principles/
-
+Watch the [videos](https://www.youtube.com/playlist?list=PLNMUSSKcxKje8BpJFlbQ44Mv8VYI92s3r)

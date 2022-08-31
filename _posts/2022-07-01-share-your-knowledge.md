@@ -7,14 +7,12 @@ tags:
   - Community
 ---
 
-On June 30 [Sherry List](https://about.me/sherrylist) and I met in-person for the first time to present at Azure Lowlands in Utrecht Netherlands. This was a great experience because we could meet old and new friends from the community and we could talk about contributing and sharing information. Also it was great to meet colleagues and the event was very well organized.
+On June 30 [Sherry List](https://twitter.com/sherrrylst) and I met in-person for the first time to present at Azure Lowlands in Utrecht Netherlands. This was a great experience because we could meet old and new friends from the community and we could talk about contributing and sharing information. Also it was great to meet colleagues and the event was very well organized.
 
-The story line was about how you can grow from enthusiast to authority by sharing information. And to make it concrete we used the example of [Rod Trent's Must Learn KQL](https://github.com/rod-trent/MustLearnKQL)
+The story line was about how you can grow from enthusiast to authority by sharing information. And to make it concrete we used the example of [Rod Trent](https://twitter.com/rodtrent)'s [Must Learn KQL](https://github.com/rod-trent/MustLearnKQL)
 
-img
+![Sherry and Pieter at Azure LowLands](../assets/images/20220630-AzureLowlands.png)
 
-pptx
+[Presentation](https://github.com/pdebruin/presentations/tree/main/AzureLowlands2022)
 
-video
-
-youtube my story
+youtube my story.
