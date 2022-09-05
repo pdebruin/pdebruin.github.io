@@ -11,8 +11,8 @@ On June 30 [Sherry List](https://twitter.com/sherrrylst) and I met in-person for
 
 The story line was about how you can grow from enthusiast to authority by sharing information. And to make it concrete we used the example of [Rod Trent](https://twitter.com/rodtrent)'s [Must Learn KQL](https://github.com/rod-trent/MustLearnKQL)
 
-![Sherry and Pieter at Azure LowLands](../assets/images/20220630-AzureLowlands.png)
+![Sherry and Pieter at Azure LowLands](../assets/images/20220630-azurelowlands.png)
 
-[Presentation](https://github.com/pdebruin/presentations/tree/main/AzureLowlands2022)
+[Presentation](https://github.com/pdebruin/presentations/blob/main/AzureLowlands2022/Must%20learn%20KQL%2020220630.pdf)
 
 youtube my story.
