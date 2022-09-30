@@ -1,0 +1,17 @@
+---
+title: "AWS security through Azure"
+categories:
+  - Learning
+tags:
+  - Learn
+  - Content
+---
+
+Microsoft Learn is the new home for all technical content, learning tools and resources. Documentation is still there https://learn.microsoft.com/azure/. Learn modules and paths are now called training https://learn.microsoft.com/training/browse/?resource_type=learning%20path&expanded=azure&products=azure. And architecture center is here too https://learn.microsoft.com/azure/architecture/. Old links and bookmarks should work and redirect appropriately. 
+
+
+Read the announcement [Build skills that open doors](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/build-skills-that-open-doors-with-microsoft-learn/ba-p/3614011?wt.mc_id=pdebruin_content_blog_cnl_csasci)
+
+
+
+https://techcommunity.microsoft.com/t5/microsoft-learn/ct-p/MicrosoftLearn
