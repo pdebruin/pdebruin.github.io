@@ -7,11 +7,10 @@ tags:
   - Content
 ---
 
-Microsoft Learn is the new home for all technical content, learning tools and resources. Documentation is still there https://learn.microsoft.com/azure/. Learn modules and paths are now called training https://learn.microsoft.com/training/browse/?resource_type=learning%20path&expanded=azure&products=azure. And architecture center is here too https://learn.microsoft.com/azure/architecture/. Old links and bookmarks should work and redirect appropriately. 
+On September 22 I attended the Identity Summit in Bonn, Germany. The promising program delivered: the workshops were very well received, unfortunately I could only attend one but I heard good feedback about the other. And the presentations were done by people who really know their field. Actually the audience was also very impressive. This is part of the reason why i was there: to connect with customer-facing technical experts to potentially work with to build on each other's content.
 
+The venue was close to the Rhine river which helps to get sunlight, fresh air and some steps.
 
-Read the announcement [Build skills that open doors](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/build-skills-that-open-doors-with-microsoft-learn/ba-p/3614011?wt.mc_id=pdebruin_content_blog_cnl_csasci)
+All in all: highly recommended for next year.
 
-
-
-https://techcommunity.microsoft.com/t5/microsoft-learn/ct-p/MicrosoftLearn
+https://www.identitysummit.cloud/
