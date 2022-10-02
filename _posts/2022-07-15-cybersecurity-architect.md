@@ -1,7 +1,7 @@
 ---
 title: "Cybersecurity architect"
 categories:
-  - Technology
+  - Learning
 tags:
   - SC-100
   - Certification
@@ -13,4 +13,4 @@ img
 
 Check out [SC-100 certification details][SC-100-certification-details].
 
-[SC-100-certification-details]: https://docs.microsoft.com/certifications/cybersecurity-architect-expert/
+[SC-100-certification-details]: https://docs.microsoft.com/certifications/cybersecurity-architect-expert/?wt.mc_id=pdebruin_content_blog_cnl_csasci
