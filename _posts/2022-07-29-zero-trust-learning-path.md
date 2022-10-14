@@ -9,7 +9,8 @@ tags:
 
 intro
 
-img
+![Identity videos](../assets/images/20220819-identityvideos.png)
+
 
 Check out [zero trust learning path][zero-trust-learning-path].
 

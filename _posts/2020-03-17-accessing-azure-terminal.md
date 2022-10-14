@@ -4,14 +4,12 @@ categories:
   - Technology
 tags:
   - Terminal
-  - CLI
-  - PowerShell
+  - Commandline
+  - Shell
 ---
 
-Accessing Microsoft Azure using powershell or cli from Windows and Linux in Windows Terminal
+In this video I use Windows Terminal to access Azure using powershell, command prompt, ubuntu bash through windows subsystem for linux and azure cloud shell. 
 
-INLINE?
+![Accessing Microsoft Azure using powershell or cli from Windows and Linux in Windows Terminal](../assets/images/20200317-azure-commandline.png)
 
-Check out [SC-100 certification details][SC-100-certification-details].
-
-[SC-100-certification-details]: https://www.youtube.com/watch?v=qBS_Knxaz5A
+Check out [the video](https://www.youtube.com/watch?v=qBS_Knxaz5A)
