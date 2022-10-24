@@ -11,7 +11,7 @@ On June 30 [Sherry List](https://twitter.com/sherrrylst) and I presented at Azur
 
 It was my first large in-person event after the start of covid, where we met old and new friends from the community. It was refreshing to run in to a lot of people, connect, catch up, brainstorm, and so on. Logistically it could not be more convenient at just a bike ride away technically, if the weather had been more bike-friendly. A shoot out has to go to the organization including [Henk Boelman](https://twitter.com/hboelman) who had done a great job with food and music at the event. Whenever opportunities like these arise, I will make an effort to join again.
 
-![lowlands](../assets/images/20220630-azurelowlands.png)
+![lowlands](../assets/images/20220630-azurelowland.png)
 
 Most exciting for Sherry and me was that we could talk about the work we do: Help technical experts share their experience.
 
