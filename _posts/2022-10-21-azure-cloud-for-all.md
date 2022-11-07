@@ -9,7 +9,7 @@ tags:
 
 A couple of years ago Azure had the tagline: Cloud for all. I loved that because it made clear that you can run your solution on Azure, regardless of the operating systems, data stores, or programming languages it uses.
 
-![Identity videos](../assets/images/20220819-identityvideos.png)
+![Identity videos](../assets/images/2022-10-21-azure-cloud-for-all.png)
 
 Ubuntu, Suse, Redhat, etc
 
@@ -28,6 +28,7 @@ GitHub acquisition
 
 Contributing to oss
 aks
+https://github.com/microsoft/CBL-Mariner
 
 opensource.microsoft.com
 Many projects are open including Code, Kubernetes Event-driven Autoscaling, TypeScript, 
