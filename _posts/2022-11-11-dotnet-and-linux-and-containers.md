@@ -23,3 +23,5 @@ And once containerized, the .net app can run on any container hosting option inc
 [ASP.NET sample using Alpine container image](https://github.com/pdebruin/asp7)
 
 [Learn .NET](https://dotnet.microsoft.com/learn?wt.mc_id=pdebruin_content_blog_cnl_csasci).
+
+[DotNetConf videos](https://www.youtube.com/c/dotNET/videos)
