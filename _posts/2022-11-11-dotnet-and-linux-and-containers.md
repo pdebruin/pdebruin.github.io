@@ -25,3 +25,5 @@ Once containerized, the .net app can run on any [container hosting option](https
 [Learn .NET](https://dotnet.microsoft.com/learn?wt.mc_id=pdebruin_content_blog_cnl_csasci).
 
 [DotNetConf videos](https://www.youtube.com/c/dotNET/videos)
+
+Thanks for reading! :-)

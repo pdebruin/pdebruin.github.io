@@ -18,3 +18,5 @@ Read more in the [introduction post](https://devblogs.microsoft.com/microsoft365
 ![img](../assets/images/2022-11-04-30-days-of-microsoft-graph.jpeg)
 
 [Welcome to 30 days of Microsoft Graph](https://techcommunity.microsoft.com/t5/microsoft-learn/welcome-to-30-days-of-microsoft-graph/m-p/3667154)
+
+Thanks for reading! :-)

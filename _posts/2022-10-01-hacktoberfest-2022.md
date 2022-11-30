@@ -11,6 +11,6 @@ Hacktoberfest is an annual worldwide event held during the month of October. The
 
 ![Identity videos](../assets/images/20221007-hacktoberfest-2022.png)
 
-
 Read more in the [Microsoft Learn contributor guide](https://learn.microsoft.com/contribute/hacktoberfest?wt.mc_id=pdebruin_content_blog_cnl_csasci)
 
+Thanks for reading! :-)

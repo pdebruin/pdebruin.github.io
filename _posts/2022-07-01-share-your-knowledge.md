@@ -18,3 +18,5 @@ Most exciting for Sherry and me was that we could talk about the work we do: Hel
 We explained how you can grow from enthusiast to authority by sharing information. To make it concrete we started by introducing [Rod Trent](https://twitter.com/rodtrent)'s work on [Must Learn KQL](https://github.com/rod-trent/MustLearnKQL). Some time ago he noticed that people were interested in new monitoring and security services in Azure, but were hesitant to start using them because it required them to learn the new Kusto query language. So he started to create content to explain KQL step-by-step, first in blog posts on GitHub, then bundled in an e-book, next he created videos on YouTube, an assessment with certification, a web shop, and the list goes on. All proceeds go to [a children's hospital](https://www.stjude.org/). As you can see you can actually become a thought leader; just be proactive, share your opinion, and grow through the community.
 
 [Presentation](https://github.com/pdebruin/presentations/blob/main/AzureLowlands2022/Must%20learn%20KQL%2020220630.pdf)
+
+Thanks for reading! :-)

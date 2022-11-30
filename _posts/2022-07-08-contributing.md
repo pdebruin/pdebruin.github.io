@@ -12,3 +12,4 @@ In [this post](./share-your-knowledge/) I described a recent conference presenta
 
 ![Contributor guide](../assets/images/20220708-contributing.png)
 
+Thanks for reading! :-)

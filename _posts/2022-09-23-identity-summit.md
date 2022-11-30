@@ -22,3 +22,4 @@ https://www.identitysummit.cloud/
 Recap by one of the organizers with more details and photos of the event
 https://reimling.azurewebsites.net/2022/09/cloud-identity-summit-2022-recap/
 
+Thanks for reading! :-)
