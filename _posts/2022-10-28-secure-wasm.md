@@ -18,3 +18,5 @@ More
 [Secure Webassembly](https://learn.microsoft.com/en-us/aspnet/core/blazor/security/webassembly?wt.mc_id=pdebruin_content_blog_cnl_csasci)
 
 Thanks for reading! :-)
+
+https://learn.microsoft.com/en-us/aspnet/core/security/enforcing-ssl?view=aspnetcore-7.0&tabs=visual-studio#trust-the-aspnet-core-https-development-certificate-on-windows-and-macos
