@@ -1,11 +1,10 @@
 ---
-title: "Cost management"
+title: "Azure Architecture Center by ChatGPT"
 categories:
   - Learning
 tags:
-  - Cost
-  - Price
-  - Well architected framework
+  - ChatGPT
+  - Azure architecture center
 ---
 
 Posted to [linkedin](https://www.linkedin.com/posts/pieterjmdebruin_azure-architecture-center-activity-7011279913584312321-bPf9) first.
