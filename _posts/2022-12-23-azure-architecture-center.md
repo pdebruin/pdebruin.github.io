@@ -1,5 +1,5 @@
 ---
-title: "Azure Architecture Center by ChatGPT"
+title: "Azure Architecture Center"
 categories:
   - Learning
 tags:
@@ -26,6 +26,6 @@ The Azure Architecture Center also provides a wealth of resources for architects
 
 Overall, the Azure Architecture Center is an essential resource for anyone looking to build and maintain cloud-based solutions on Azure. Whether you're a seasoned cloud architect or just starting out, the Azure Architecture Center has something for everyone."
 
-![img](../assets/images/2022-12-23-azure-architecture-center.png)
+![img](../assets/images/2022-12-23-azure-architecture-center.jpeg)
 
 Thanks for reading! :-)
