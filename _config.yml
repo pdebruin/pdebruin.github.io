@@ -75,6 +75,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pdebruin"
+    - label: "Ko-fi"
+      icon: "fab fa-fw fa-ko-fi"
+      url: "https://ko-fi.com/pdebruin"
 
 footer:
   links:
@@ -93,6 +96,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pdebruin"
+    - label: "Ko-fi"
+      icon: "fab fa-fw fa-ko-fi"
+      url: "https://ko-fi.com/pdebruin"
 
 defaults:
   # _posts
