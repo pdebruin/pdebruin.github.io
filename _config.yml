@@ -76,7 +76,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pdebruin"
     - label: "Ko-fi"
-      icon: "fab fa-fw fa-coffee"
+      icon: "fab fa-fw fa-mug"
       url: "https://ko-fi.com/pdebruin"
 
 footer:
@@ -97,7 +97,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pdebruin"
     - label: "Ko-fi"
-      icon: "fab fa-fw fa-coffee"
+      icon: "fab fa-fw fa-mug"
       url: "https://ko-fi.com/pdebruin"
 
 defaults:
