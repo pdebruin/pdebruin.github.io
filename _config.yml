@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Pieter de Bruin"
   avatar : "/assets/images/pieter-200-r.jpg"
-  bio    : "Helps technical experts share their experiences in the Microsoft cloud."
+  bio    : "Helps technical experts share their experience on Microsoft Learn"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -76,7 +76,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pdebruin"
     - label: "Ko-fi"
-      icon: "fab fa-fw fa-ko-fi"
+      icon: "fab fa-fw fa-coffee"
       url: "https://ko-fi.com/pdebruin"
 
 footer:
@@ -97,7 +97,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pdebruin"
     - label: "Ko-fi"
-      icon: "fab fa-fw fa-ko-fi"
+      icon: "fab fa-fw fa-coffee"
       url: "https://ko-fi.com/pdebruin"
 
 defaults:
