@@ -11,6 +11,6 @@ monitor
 aad
 gitops
 
-![img](../assets/images/2023-03-17-azure-kubernetes-service-introduction.png)
+![img](../assets/images/2023-03-17-azure-kubernetes-service-102.png)
 
 Thanks for reading! :-)
