@@ -1,5 +1,5 @@
 ---
-title: "Microsoft Build"
+title: "Microsoft Build cloud skills challenge"
 categories:
   - Learning
 tags:

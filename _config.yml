@@ -17,7 +17,7 @@ title: Pieter's cloud journey
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Pieter de Bruin's blog
-twitter_username: pieter_de_bruin
+# twitter_username: pieter_de_bruin
 github_username: pdebruin
 minimal_mistakes_skin: air # default
 search: true
@@ -66,9 +66,12 @@ author:
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://hachyderm.io/@pdebruin"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/pieter_de_bruin"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-square"
+      url: "https://bsky.app/profile/pdebruin.bsky.social"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/pieter_de_bruin"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@pdebruin"
@@ -87,9 +90,12 @@ footer:
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://hachyderm.io/@pdebruin"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/pieter_de_bruin"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-square"
+      url: "https://bsky.app/profile/pdebruin.bsky.social"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/pieter_de_bruin"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@pdebruin"
