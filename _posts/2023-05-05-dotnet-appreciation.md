@@ -18,7 +18,7 @@ In previous posts I used [Windows Subsystem on Linux and Windows Terminal](/acce
 
 I don't talk a lot about dotnet, or powershell for that matter, because I think we should talk more about all other languages and their use on Azure. However, this week I saw a social media post of someone creating fear, uncertainty and doubt for using dotnet; that it is tight to "Microsoft", SQL, and license costs. This made me want to publicly appreciate dotnet, so here we go:
 <ul>
-<li>
+<li> 
 [Dotnet is opensource](https://dotnet.microsoft.com/platform/open-source?wt.mc_id=architecture_contributors_blog_cnl)
 </li><li>
 [Download dotnet](https://dotnet.microsoft.com/download/dotnet?wt.mc_id=architecture_contributors_blog_cnl)
