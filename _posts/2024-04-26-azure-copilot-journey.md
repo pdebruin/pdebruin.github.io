@@ -7,7 +7,7 @@ tags:
   - Copilot
 ---
 
-Earlier I shared my excitement about [Azure copilot](./azure-portal-copilot).
+Earlier I shared my excitement about [Azure copilot](../azure-portal-copilot).
 
 Now you can read about the background of how we built the Microsoft Learn knowledge service that powers the Azure copilot. 
 
