@@ -14,6 +14,6 @@ There is so much news around artificial intelligence 🧠, generative pre-traine
 
 ![img](../assets/images/2023-04-07-30-days-of-azure-ai.jpeg)
 
-[Join #30DaysOfAzureAI](https://azureaidevs.github.io/hub/azure-ai-devs?wt.mc_id=architecture_contributors_blog_cnl)
+[Join #30DaysOfAzureAI](https://azureaidevs.github.io/hub/azure-ai-devs?wt.mc_id=pdebruin_content_blog_cnl_csasci)
 
 Thanks for reading! :-)

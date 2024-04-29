@@ -12,6 +12,6 @@ When you want to learn more about running Kubernetes on Azure, Microsoft Learn h
 
 ![img](../assets/images/2023-04-14-aks-start-here.jpeg)
 
-[Containers in Azure architecture center](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-start-here?wt.mc_id=architecture_contributors_blog_cnl)
+[Containers in Azure architecture center](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-start-here?wt.mc_id=pdebruin_content_blog_cnl_csasci)
 
 Thanks for reading! :-)

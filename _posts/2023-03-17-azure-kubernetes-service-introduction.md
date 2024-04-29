@@ -23,11 +23,11 @@ Before starting to work with Kubernetes, make sure to have a Linux command-line 
 There are some pros and cons to the above options. For instance, Azure cloud shell is very easy to start with: simply [browse](https://shell.azure.com) and you get a web-based environment with az and kubectl installed. However you are not a super user so you can't install things, and you can't use ```docker build``` to create a new container image. In your own environment you can be super user but you will have to install tools like:
 
 az version
-[](https://learn.microsoft.com/cli/azure/install-azure-cli-linux?pivots=script&wt.mc_id=architecture_contributors_blog_cnl)
+[](https://learn.microsoft.com/cli/azure/install-azure-cli-linux?pivots=script&wt.mc_id=pdebruin_content_blog_cnl_csasci)
 ```curl -L https://aka.ms/InstallAzureCli | bash```
 
 kubectl
-https://learn.microsoft.com/cli/azure/aks?view=azure-cli-latest#az-aks-install-cli?wt.mc_id=architecture_contributors_blog_cnl
+https://learn.microsoft.com/cli/azure/aks?view=azure-cli-latest#az-aks-install-cli?wt.mc_id=pdebruin_content_blog_cnl_csasci
 az aks install-cli
 
 ![img](../assets/images/2023-03-17-azure-kubernetes-service-introduction.png)

@@ -1,5 +1,5 @@
 ---
-title: "My Build"
+title: "Azure AI engineer"
 categories:
   - Learning
 tags:
@@ -9,7 +9,7 @@ tags:
 
 As you may have noticed, much of IT innovation is in the area of artificial intelligence. A decade ago you needed higher education to understand algorythms and models. Later they became more accessible through APIs like Cognitive Services, which still required developer and data knowledge. Since the release of ChatGPT, and others that is now all accessible to end users
 
-![img](../assets/images/2023-05-12-build-cloud-skills-challenge.png)
+![img](../assets/images/2023-08-18-azure-ai-engineer.png)
 
 https://www.microsoft.com/en-us/cloudskillschallenge/ai/registration/2023
 

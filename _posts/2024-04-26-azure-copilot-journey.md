@@ -13,6 +13,6 @@ Now you can read about the background of how we built the Microsoft Learn knowle
 
 ![img](../assets/images/2024-04-26-azure-copilot-journey.png)
 
-https://devblogs.microsoft.com/engineering-at-microsoft/how-we-built-ask-learn-the-rag-based-knowledge-service/
+[Source](https://devblogs.microsoft.com/engineering-at-microsoft/how-we-built-ask-learn-the-rag-based-knowledge-service/?wt.mc_id=pdebruin_content_blog_cnl_csasci)
 
 Thanks for reading! :-)
