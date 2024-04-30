@@ -1,7 +1,7 @@
 ---
 title: "Accessing Microsoft Azure using powershell or command-line interface"
 categories:
-  - Technology
+  - Learning
 tags:
   - Terminal
   - Commandline

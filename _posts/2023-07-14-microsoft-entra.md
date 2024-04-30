@@ -4,7 +4,7 @@ categories:
   - Learning
 tags:
   - Identity
-  - Azure Active Directory
+  - Entra
 ---
 
 Intro

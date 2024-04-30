@@ -3,8 +3,7 @@ title: "Defender for DevOps"
 categories:
   - Learning
 tags:
-  - Defender
-  - DevOps
+  - Devops
   - Security
 ---
 

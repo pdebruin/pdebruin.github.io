@@ -1,7 +1,7 @@
 ---
 title: "Azure security on AWS"
 categories:
-  - Technology
+  - Learning
 tags:
   - AWS
   - Security

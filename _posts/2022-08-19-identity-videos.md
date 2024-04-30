@@ -1,7 +1,7 @@
 ---
 title: "Identity videos"
 categories:
-  - Technology
+  - Learning
 tags:
   - Identity
   - Entra

@@ -1,5 +1,5 @@
 ---
-title: "Azure AD and Microsoft Graph"
+title: "Entra and Microsoft Graph"
 categories:
   - Learning
 tags:
