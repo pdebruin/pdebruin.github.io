@@ -3,7 +3,7 @@ title: "Microsoft Q&A update"
 categories:
   - Learning
 tags:
-  - Q&A
+  - Learn
 ---
 
 There are many things we don't know but others may: Sometimes you seach for answers, ask a colleague or a friend, or post on a forum. For that last option there is [Microsoft Q&A](https://learn.microsoft.com/answers/). You can find lots of Microsoft products and services there, and all kinds of people asking questions and answering them. Remember, you may be learning one technology and experienced in another.

@@ -5,7 +5,7 @@ categories:
 tags:
   - Dotnet
   - Linux
-  - Containers
+  - Kubernetes
 ---
 
 Did you know DotNet runs on Linux, MacOS and Windows? It also runs in containers. .NET 6.0 is the long-term support (3 years) version released last year. .NET 7.0 is the latest version with standard support (1 1/2 years).

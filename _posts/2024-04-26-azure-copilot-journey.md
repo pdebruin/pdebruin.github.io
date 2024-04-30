@@ -3,8 +3,7 @@ title: "Azure copilot journey"
 categories:
   - Learning
 tags:
-  - AI
-  - Copilot
+  - Artificial intelligence
 ---
 
 Earlier I shared my excitement about [Azure copilot](../azure-portal-copilot).

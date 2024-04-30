@@ -3,7 +3,6 @@ title: "Learning the big three"
 categories:
   - Learning
 tags:
-  - Web
   - Devops
 ---
 

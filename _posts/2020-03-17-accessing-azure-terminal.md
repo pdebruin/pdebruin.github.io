@@ -3,9 +3,7 @@ title: "Accessing Microsoft Azure using powershell or command-line interface"
 categories:
   - Learning
 tags:
-  - Terminal
-  - Commandline
-  - Shell
+  - Devops
 ---
 
 In this video I use Windows Terminal to access Azure using powershell, command prompt, ubuntu bash through windows subsystem for linux and azure cloud shell. 

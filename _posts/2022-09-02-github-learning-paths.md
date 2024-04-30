@@ -3,7 +3,7 @@ title: "GitHub learning paths"
 categories:
   - Learning
 tags:
-  - GitHub
+  - Learn
   - Security
 ---
 

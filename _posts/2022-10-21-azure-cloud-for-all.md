@@ -4,7 +4,8 @@ categories:
   - Learning
 tags:
   - Open-source
-  - Any stack
+  - Linux
+  - Kubernetes
 ---
 
 A couple of years ago Azure had the tagline: Cloud for all. I loved that because it made clear that you can run your solution on Azure, regardless of the operating systems, data stores, or programming languages it uses.

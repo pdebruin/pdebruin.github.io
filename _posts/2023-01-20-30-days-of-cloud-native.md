@@ -3,8 +3,8 @@ title: "30 days of cloud-native and Learn Collections"
 categories:
   - Learning
 tags:
-  - cloud-native
-  - learn collections
+  - Devops
+  - Learn
 ---
 
 The cloud-native new year is a great way to learn about on Azure Kubernetes Service, Container Apps and Functions. If you are interested in that, head over to the [techcommunity post](https://techcommunity.microsoft.com/t5/microsoft-learn/join-us-for-cloud-native-new-year/m-p/3723530?wt.mc_id=pdebruin_content_blog_cnl_csasci).

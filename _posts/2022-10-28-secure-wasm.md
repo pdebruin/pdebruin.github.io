@@ -3,7 +3,7 @@ title: "Secure webassembly"
 categories:
   - Learning
 tags:
-  - Webassembly
+  - Devops
   - Security
 ---
 

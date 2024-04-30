@@ -3,7 +3,7 @@ title: "Cybersecurity architect"
 categories:
   - Learning
 tags:
-  - Certification
+  - Learn
 ---
 
 SC-100 Microsoft Certified: Cybersecurity Architect Expert
