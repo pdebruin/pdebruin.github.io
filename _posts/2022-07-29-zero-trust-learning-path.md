@@ -3,7 +3,6 @@ title: "Zero trust learning path"
 categories:
   - Learning
 tags:
-  - ZeroTrust
   - Security
 ---
 

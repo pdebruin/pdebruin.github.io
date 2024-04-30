@@ -3,7 +3,6 @@ title: "Secure VM access using Azure Bastion"
 categories:
   - Learning
 tags:
-  - Bastion
   - Linux
   - Security
 ---

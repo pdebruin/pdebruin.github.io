@@ -3,8 +3,7 @@ title: "Ubuntu on Surface laptop studio"
 categories:
   - Learning
 tags:
-  - Ubuntu
-  - Surface
+  - Linux
 ---
 
 Recently I received a new work laptop, a Surface Laptop Studio and previously a Surface Book. Obviously Surface devices run Windows by default. And I also want to use Linux every now and then, for instance when doing demos for Linux audiences or creating or reviewing technical documentation.  

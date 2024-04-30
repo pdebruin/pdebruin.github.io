@@ -3,8 +3,7 @@ title: "Azure Architecture Center"
 categories:
   - Learning
 tags:
-  - ChatGPT
-  - Azure architecture center
+  - Architecture
 ---
 
 Me: "Write a blog post about [#azure #architecture #center](https://learn.microsoft.com/azure/architecture/)"

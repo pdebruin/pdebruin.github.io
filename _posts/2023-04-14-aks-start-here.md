@@ -3,9 +3,7 @@ title: "AKS start here"
 categories:
   - Learning
 tags:
-  - aks
-  - kubernetes
-  - containers
+  - Kubernetes
 ---
 
 When you want to learn more about running Kubernetes on Azure, Microsoft Learn has you covered from training, reference implementations to operations best practices.

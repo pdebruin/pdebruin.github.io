@@ -3,8 +3,7 @@ title: "What makes great architecture diagrams"
 categories:
   - Learning
 tags:
-  - architecture
-  - diagrams
+  - Architecture
 ---
 
 Draw, reuse, tell stories, contribute

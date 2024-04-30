@@ -3,9 +3,7 @@ title: "AKS free tier"
 categories:
   - Learning
 tags:
-  - cloud-native
-  - kubernetes
-  - AKS
+  - Kubernetes
 ---
 
 Last week the [free tier](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-kubernetes-service-free-tier-and-standard-tier/ba-p/3731432?wt.mc_id=pdebruin_content_blog_cnl_csasci) for [Azure Kubernetes Service](https://learn.microsoft.com/azure/aks/intro-kubernetes?wt.mc_id=pdebruin_content_blog_cnl_csasci) was announced. Although it is correct, it also requires elaboration.

@@ -3,7 +3,7 @@ title: "Azure Active Directory for developers"
 categories:
   - Learning
 tags:
-  - NodeJS
+  - Devops
   - Identity
 ---
 

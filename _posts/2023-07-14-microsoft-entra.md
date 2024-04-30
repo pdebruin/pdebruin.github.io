@@ -4,7 +4,6 @@ categories:
   - Learning
 tags:
   - Identity
-  - Entra
 ---
 
 Intro

@@ -3,8 +3,7 @@ title: "Azure Kubernetes Service 102"
 categories:
   - Learning
 tags:
-  - aks
-  - kubernetes
+  - Kubernetes
 ---
 
 This post follows [a previous article](./azure-kubernetes-service-introduction/) on creating an Azure Kubernetes Service cluster.

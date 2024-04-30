@@ -3,9 +3,7 @@ title: "30 days of Azure AI"
 categories:
   - Learning
 tags:
-  - ai
-  - artificial intelligence
-  - gpt
+  - Artificial intelligence
 ---
 
 It's AI April!

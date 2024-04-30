@@ -4,7 +4,6 @@ categories:
   - Learning
 tags:
   - Identity
-  - Entra
 ---
 
 Check out these six videos by [April Edwards](https://twitter.com/TheAprilEdwards) and [Christos Matskas](https://twitter.com/ChristosMatskas) on Getting started with Microsoft Identity.

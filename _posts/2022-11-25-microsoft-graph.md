@@ -3,8 +3,8 @@ title: "Entra and Microsoft Graph"
 categories:
   - Learning
 tags:
-  - NodeJS
-  - Graph
+  - Devops
+  - Identity
 ---
 
 Microsoft Graph is the gateway to data in Microsoft 365, Dynamics 365, Windows, and Enterprise Mobility + Security. Using Microsoft Graph's APIs and the corresponding permissions, you can access traditional productivity data like emails and events, and security and identity information like groups, devices, app registrations, audit logs, high risk users, security alerts, etc.

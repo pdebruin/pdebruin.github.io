@@ -3,7 +3,6 @@ title: "30 days of Microsoft Graph"
 categories:
   - Learning
 tags:
-  - MSGraph
   - Identity
 ---
 

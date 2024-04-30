@@ -3,8 +3,7 @@ title: "Azure Kubernetes Service introduction"
 categories:
   - Learning
 tags:
-  - aks
-  - kubernetes
+  - Kubernetes
 ---
 
 In previous roles I used to work a lot with containers. Next month KubeCon is happening close to my home and I will be helping out at the booth and discussing everything Microsoft Learn and architecture center with attendees :-) In preparation I wanted to create some content on Azure Kubernetes Service, both for my own memory refresh as well as for your benefit. Note that you can use containers in other Azure services like AppService and Container Apps.

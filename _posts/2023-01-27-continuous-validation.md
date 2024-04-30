@@ -3,9 +3,7 @@ title: "Continuous validation"
 categories:
   - Learning
 tags:
-  - chaos
-  - load
-  - test
+  - Devops
 ---
 
 Recently I ran into an interesting project that deserves more attention: Mission critical online. And they made it to [Azure Friday](https://learn.microsoft.com/shows/azure-friday/continuously-validate-and-test-your-mission-critical-azure-workloads?wt.mc_id=pdebruin_content_blog_cnl_csasci), so it is not exactly a secret :-)

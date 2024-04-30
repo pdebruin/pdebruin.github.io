@@ -3,7 +3,6 @@ title: "Cybersecurity architect"
 categories:
   - Learning
 tags:
-  - SC-100
   - Certification
 ---
 

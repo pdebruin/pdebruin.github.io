@@ -3,9 +3,8 @@ title: "DotNet appreciation"
 categories:
   - Learning
 tags:
-  - dotnet
+  - Dotnet
   - Community
-  - opensource
 ---
 
 As you know, I am a big fan of openness:

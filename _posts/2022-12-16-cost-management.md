@@ -3,9 +3,7 @@ title: "Cost management"
 categories:
   - Learning
 tags:
-  - Cost
-  - Price
-  - Well architected framework
+  - Architecture
 ---
 
 There is a new [cost optimization campaign](https://azure.microsoft.com/solutions/do-more-with-less/?wt.mc_id=pdebruin_content_blog_cnl_csasci), which reminded me I haven't blogged about cost management yet.

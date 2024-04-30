@@ -3,7 +3,7 @@ title: ".NET and Linux and containers"
 categories:
   - Learning
 tags:
-  - DotNet
+  - Dotnet
   - Linux
   - Containers
 ---
