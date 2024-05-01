@@ -3,11 +3,10 @@ title: "KubeCon EU 2024 Azure day"
 categories:
   - Learning
 tags:
-  - Open-source
-  - Devops
+  - Kubernetes
 ---
 
-As you may have noticed, much of IT innovation is in the area of artificial intelligence. A decade ago you needed higher education to understand algorythms and models. Later they became more accessible through APIs like Cognitive Services, which still required developer and data knowledge. Since the release of ChatGPT, and others that is now all accessible to end users
+[KubeCon EU](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) happened in Paris from March 19 to 22. Before the main event, Microsoft organized a preday about Azure. The recorded presentations from that day are available to watch at your convenience. 
 
 ![img](../assets/images/2024-04-12-kubecon-azure-day.png)
 
