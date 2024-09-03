@@ -15,14 +15,14 @@ Next, you may have access to Azure directly through a personal subscription as a
 
 Lastly, if you just want to try out Azure to see if it works for you, you can create a trial subscription. This gives you a one-time $200 for a month to experiment. After you have requested this once for your email address, you can still create a regular pay-as-you-go subscription.
 
-I will guide you through that process [here](./startup-azure-free-trial/). 
+I will guide you through that process [here](../startup-azure-free-trial/). 
 
 When you have evaluated Azure, and you have decided it is a match with your startup, check out [Founders Hub](https://www.microsoft.com/startups).
 
 ![img](../assets/images/2024-07-05-startup-on-azure2.png)
 
 For completeness, I do want to mention that when you start to use more Azure services, you should: 
-* closely [monitor your cost](./cost-management/) and
+* closely [monitor your cost](../cost-management/) and
 * contact Microsoft to get custom pricing
 
 Thanks for reading! :-)

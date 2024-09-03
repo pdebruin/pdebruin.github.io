@@ -24,7 +24,7 @@ The final step is a warning about multi-factor authentication. As you know, MFA 
 
 ![img](../assets/images/2024-07-12-startup-azure-free-trial2.png)
 
-The below is optional. There are many things to do in your new subscription. Find a tutorial for the things you care about. If you don't have another plan, check out the [next post about Entra](./startup-microsoft-entra/) to learn more about identity and access management.
+The below is optional. There are many things to do in your new subscription. Find a tutorial for the things you care about. If you don't have another plan, check out the [next post about Entra](../startup-microsoft-entra/) to learn more about identity and access management.
 
 Now you can create an Azure resource, such as an Azure Function. 
 
