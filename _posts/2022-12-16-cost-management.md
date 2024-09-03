@@ -28,6 +28,6 @@ Lastly once you know what you are going to need and when you need it, you may wa
 
 An additional note about virtual machines: VMs have the biggest variety in types, series, sizes, etc, which can be intimidating at first. Then it really helps to use [VM chooser](https://azureprice.net/) to filter down to your required region, cores and memory and sort by price.
 
-Watch a recent [Azure Friday] episode about cost (https://www.youtube.com/watch?v=XQTQz-MgEBA)
+Watch a recent [Azure Friday episode about cost](https://www.youtube.com/watch?v=XQTQz-MgEBA)
 
 Thanks for reading! :-)
