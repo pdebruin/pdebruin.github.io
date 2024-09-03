@@ -15,6 +15,6 @@ There are a couple of things you want to take care of:
 * Enable multi-factor authentication
 * Create regular user accounts, or integrate with an existing user store 
 
-![img](../assets/images/2024-06-28-volunteering-at-three-local-events.jpg)
+![img](../assets/images/2024-07-19-startup-microsoft-entra.png)
 
 Thanks for reading! :-)
