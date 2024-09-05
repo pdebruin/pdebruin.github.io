@@ -6,7 +6,7 @@ tags:
   - Devops
 ---
 
-GitHub Models in public preview: Every developer can now become an AI developer with AI models in GitHub Marketplace integrated with #Code 🎉
+GitHub Models in public preview: Every developer can now become an AI developer with AI models in GitHub Marketplace integrated with Code 🎉
 
 [Blog post](https://github.blog/news-insights/product-news/introducing-github-models/)
 
