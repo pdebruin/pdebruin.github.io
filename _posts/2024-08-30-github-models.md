@@ -4,6 +4,7 @@ categories:
   - Learning
 tags:
   - Devops
+  - Artificial intelligence
 ---
 
 GitHub Models in public preview: Every developer can now become an AI developer with AI models in GitHub Marketplace integrated with Code 🎉

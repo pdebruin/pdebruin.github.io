@@ -3,7 +3,7 @@ title: "Azure portal copilot"
 categories:
   - Learning
 tags:
-  - Open-source
+  - Artificial intelligence
   - Devops
 ---
 

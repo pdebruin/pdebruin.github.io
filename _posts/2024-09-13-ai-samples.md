@@ -3,7 +3,7 @@ title: "AI Samples"
 categories:
   - Learning
 tags:
-  - Devops
+  - Artificial intelligence
 ---
 
 Starting from scratch can be daunting. I prefer to reuse a sample of some sort and then customize to my needs. This means you may have a bit of a learning curve to understand both the sample as well as the technology it uses. This post should help.
