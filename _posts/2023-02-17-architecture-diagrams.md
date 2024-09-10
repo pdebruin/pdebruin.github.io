@@ -17,7 +17,7 @@ In preparation of this post I remembered a presentation called "Draw like an arc
 Then when you are starting, you may prefer a blank sheet. Or maybe you like to reuse an existing diagram, either because it is close to your envisioned solution, or because you like its format. Note that you can download diagrams from Azure architecture center to benefit. 
 
 Just like reusing diagrams, you can reuse icons 
-https://learn.microsoft.com/en-us/azure/architecture/icons/?wt.mc_id=pdebruin_content_blog_cnl_csasci
+https://learn.microsoft.com/azure/architecture/icons/?wt.mc_id=pdebruin_content_blog_cnl_csasci
 
 Creating cool, glowing architecture diagrams
 https://www.youtube.com/watch?v=QR-64mFqhf4

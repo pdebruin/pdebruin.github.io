@@ -11,6 +11,7 @@ This week is an interesting one for people working in a team with people in the 
 
 For me that means resetting important items to focus on, according to https://gettingresults.com/30-days-of-getting-results-free-ebook/. Although my projects continue to run, I can adjust personal goals. It looks like the fediverse is embracing micro-blogging. I think it could leave an interesting trail of posts and topics, so that is something I want to experiment with. 
 
+todo
 ![img](../assets/images/2023-07-07-new-year-plans.png)
 
 Thanks for reading! :-)
