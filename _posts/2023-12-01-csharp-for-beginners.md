@@ -7,11 +7,9 @@ tags:
   - Devops
 ---
 
-todo
+Interested in learning c# (or how to create dev videos)? Watch the [c# for beginners series](https://learn.microsoft.com/shows/csharp-for-beginners/). 
 
 ![img](../assets/images/2023-12-01-csharp-for-beginners.png)
-
-https://learn.microsoft.com/en-us/shows/csharp-for-beginners/
 
 Thanks for reading! :-)
 
