@@ -14,7 +14,7 @@ I wanted to write about this sample for some time, because it includes a number 
 
 Since the sample is rather thorough, it has quite a number of dependencies. To get started without worrying about those, you should use GitHub Codespaces if you can. Deploying the app is done through ``` azd up ```.
 
-This will additionally result in an [Azure app service](https://learn.microsoft.com/azure/app-service/overview) that hosts the app, an Azure storage account](https://learn.microsoft.com/azure/storage/blobs/storage-blobs-overview) to store the scenario pdf files, and [Azure AI Document Intelligence service](https://learn.microsoft.com/azure/ai-services/document-intelligence/overview) to analyze them. 
+This will additionally result in an [Azure app service](https://learn.microsoft.com/azure/app-service/overview) that hosts the app, an [Azure storage account](https://learn.microsoft.com/azure/storage/blobs/storage-blobs-overview) to store the scenario pdf files, and [Azure AI Document Intelligence service](https://learn.microsoft.com/azure/ai-services/document-intelligence/overview) to analyze them. 
 
 ![img](../assets/images/2024-09-13-ai-samples1.png)
 
