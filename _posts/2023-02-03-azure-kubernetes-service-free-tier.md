@@ -18,7 +18,7 @@ When AKS started, and even before with Azure Container Service, the management i
 
 So did anything else change? Well the AKS product group are very active and open. [Lots of excitement happening](https://github.com/Azure/AKS/projects/1).
 
-When you are considering AKS for production use, look at [the baseline architecture](https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks) for AKS as a starting point.
+When you are considering AKS for production use, look at [the baseline architecture](https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks?wt.mc_id=pdebruin_content_blog_cnl_csasci) for AKS as a starting point.
 PS: I could do separate posts about AKS
 PPS: I could add specific AKS cost management options here
 

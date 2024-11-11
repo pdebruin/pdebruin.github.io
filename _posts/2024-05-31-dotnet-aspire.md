@@ -20,6 +20,6 @@ Aspire aims to make it easier to develop and troubleshoot apps. The first thing 
 
 For a longer explanation, check out the [Build video](https://build.microsoft.com/sessions/1879189b-070b-4dfa-8c3b-8681e5442863).
 
-[Learn documentation](https://learn.microsoft.com/dotnet/aspire/get-started/aspire-overview)
+[Learn documentation](https://learn.microsoft.com/dotnet/aspire/get-started/aspire-overview?wt.mc_id=pdebruin_content_blog_cnl_csasci)
 
 Thanks for reading! :-)

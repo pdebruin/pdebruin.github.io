@@ -6,7 +6,7 @@ tags:
   - Architecture
 ---
 
-Me: "Write a blog post about [#azure #architecture #center](https://learn.microsoft.com/azure/architecture/)"
+Me: "Write a blog post about [#azure #architecture #center](https://learn.microsoft.com/azure/architecture/?wt.mc_id=pdebruin_content_blog_cnl_csasci)"
 
 chat.openai.com:
 "The Azure Architecture Center is a valuable resource for anyone looking to design, build, and maintain cloud-based solutions on Microsoft Azure. This comprehensive resource provides best practices, design patterns, and reference architectures for a wide range of scenarios, including data centers, hybrid cloud environments, and Internet of Things (IoT) solutions.

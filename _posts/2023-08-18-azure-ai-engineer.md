@@ -6,7 +6,7 @@ tags:
   - Artificial intelligence
 ---
 
-I just passed exam AI-102 and received the Azure AI Engineer certification 🎉 And [so can you](https://learn.microsoft.com/credentials/certifications/azure-ai-engineer/) 🙂
+I just passed exam AI-102 and received the Azure AI Engineer certification 🎉 And [so can you](https://learn.microsoft.com/credentials/certifications/azure-ai-engineer/?wt.mc_id=pdebruin_content_blog_cnl_csasci) 🙂
 
 ![img](../assets/images/2023-08-18-azure-ai-engineer.jpg)
 

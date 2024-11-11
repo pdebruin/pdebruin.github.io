@@ -15,6 +15,6 @@ The campaign consists of blog posts, ask the experts sessions and a [cloud skill
 
 Any Learn page has a plus sign, which allows to add it to a new or existing collection. You can share those collections with your customers, partners, and audiences of blog of videos.
 
-In your Learn profile there is a page with [your collections](https://learn.microsoft.com/users/me/collections). 
+In your Learn profile there is a page with [your collections](https://learn.microsoft.com/users/me/collections?wt.mc_id=pdebruin_content_blog_cnl_csasci). 
 
 Thanks for reading! :-)
