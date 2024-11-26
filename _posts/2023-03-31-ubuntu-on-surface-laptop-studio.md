@@ -8,7 +8,7 @@ tags:
 
 Recently I received a new work laptop, a Surface Laptop Studio and previously a Surface Book. Obviously Surface devices run Windows by default. And I also want to use Linux every now and then, for instance when doing demos for Linux audiences or creating or reviewing technical documentation.  
 
-There are a few ways to work with Linux on a Surface device. First is [Windows Subsystem for Linux](./accessing-azure-terminal/). Next is a Linux virtual machine in Azure [using Bastion](./bastion-ssh-rdp/), especially when it needs more compute, storage or networking than a Surface device. And lastly there is dual boot, the option to run Linux on Surface directly, while keeping the option to switch to Windows when needed. This post describes the latter.
+There are a few ways to work with Linux on a Surface device. First is [Windows Subsystem for Linux](../accessing-azure-terminal/). Next is a Linux virtual machine in Azure [using Bastion](../bastion-ssh-rdp/), especially when it needs more compute, storage or networking than a Surface device. And lastly there is dual boot, the option to run Linux on Surface directly, while keeping the option to switch to Windows when needed. This post describes the latter.
 
 The first thing to know is that you can [install Ubuntu](https://ubuntu.com/tutorials/install-ubuntu-desktop) on your laptop or desktop. In Windows disk management you create a new partition, and follow the tutorial.
 

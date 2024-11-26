@@ -6,7 +6,7 @@ tags:
   - Kubernetes
 ---
 
-This post follows [a previous article](./azure-kubernetes-service-introduction/) on creating an Azure Kubernetes Service cluster.
+This post follows [a previous article](../azure-kubernetes-service-introduction/) on creating an Azure Kubernetes Service cluster.
 
 After the initial creation is complete, you want to do a few things to set up for success:
 
