@@ -27,7 +27,7 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -60,51 +60,57 @@ author:
   avatar : "/assets/images/pieter-200-r.jpg"
   bio    : ""
   links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/pieterjmdebruin/"
-    - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon"
-      url: "https://hachyderm.io/@pdebruin"
+    - label: "www"
+      icon: "fas fa-globe"
+      url: "https://www.pdebruin.org"
+    # - label: "LinkedIn"
+    #   icon: "fab fa-fw fa-linkedin"
+    #   url: "https://www.linkedin.com/in/pieterjmdebruin/"
+    # - label: "Mastodon"
+    #   icon: "fab fa-fw fa-mastodon"
+    #   url: "https://hachyderm.io/@pdebruin"
     # - label: "Bluesky"
     #   icon: "fab fa-fw fa-square"
     #   url: "https://bsky.app/profile/pdebruin.bsky.social"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/pieter_de_bruin"
-    - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/@pdebruin"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/pdebruin"
-    - label: "Ko-fi"
-      icon: "fab fa-fw fa-mug"
-      url: "https://ko-fi.com/pdebruin"
+    # - label: "YouTube"
+    #   icon: "fab fa-fw fa-youtube"
+    #   url: "https://www.youtube.com/@pdebruin"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/pdebruin"
+    # - label: "Ko-fi"
+    #   icon: "fab fa-fw fa-mug"
+    #   url: "https://ko-fi.com/pdebruin"
 
 footer:
   links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/pieterjmdebruin/"
-    - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon"
-      url: "https://hachyderm.io/@pdebruin"
+    - label: "www"
+      icon: "fas fa-globe"
+      url: "https://www.pdebruin.org"
+    # - label: "LinkedIn"
+    #   icon: "fab fa-fw fa-linkedin"
+    #   url: "https://www.linkedin.com/in/pieterjmdebruin/"
+    # - label: "Mastodon"
+    #   icon: "fab fa-fw fa-mastodon"
+    #   url: "https://hachyderm.io/@pdebruin"
     # - label: "Bluesky"
     #   icon: "fab fa-fw fa-square"
     #   url: "https://bsky.app/profile/pdebruin.bsky.social"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/pieter_de_bruin"
-    - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/@pdebruin"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/pdebruin"
-    - label: "Ko-fi"
-      icon: "fab fa-fw fa-mug"
-      url: "https://ko-fi.com/pdebruin"
+    # - label: "YouTube"
+    #   icon: "fab fa-fw fa-youtube"
+    #   url: "https://www.youtube.com/@pdebruin"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/pdebruin"
+    # - label: "Ko-fi"
+    #   icon: "fab fa-fw fa-mug"
+    #   url: "https://ko-fi.com/pdebruin"
 
 defaults:
   # _posts
@@ -116,7 +122,7 @@ defaults:
       author_profile: true
       read_time: false
       comments: false
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
