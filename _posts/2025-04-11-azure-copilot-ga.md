@@ -6,16 +6,11 @@ tags:
   - Artificial intelligence
 ---
 
-Global AI Bootcamp is a great way to meet with like-minded people who are learning about AI either locally in-person or virtually online. 
+Copilot for Azure is now generally available and more performant, accessible, responsible. It can help you understand your active services, optimize cost and performance, set up monitoring, create scripts, and with troubleshooting and support. 
+"Hi copilot, can you please show me the steps and cli commands to host a nosql database and webapp in Azure?" 😍
 
 ![img](../assets/images/2025-04-11-azure-copilot-ga.jpg)
 
-If you didn't get a chance to join a meeting, you can still take a look at the material:
-
-15 minute [Agent Service introduction](https://github.com/microsoft/aitour-ai-agents-theater-session)
-
-75 minute [Build your first agent workshop](https://github.com/microsoft/build-your-first-agent-with-azure-ai-agent-service-workshop)
-
-And finally, check out the [AI agents for beginners](../ai-agents-for-beginners) course I mentioned earlier.
+[Blog post](https://techcommunity.microsoft.com/blog/azureinfrastructureblog/microsoft-copilot-in-azure-is-now-generally-available/4402033) 
 
 Thanks for reading! :-)
