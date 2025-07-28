@@ -1,5 +1,5 @@
 ---
-title: "MCP"
+title: "Learn Docs MCP Server"
 categories:
   - Learning
 tags:
