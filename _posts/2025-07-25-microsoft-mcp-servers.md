@@ -6,7 +6,7 @@ tags:
   - Artificial intelligence
 ---
 
-This was a nice surprise: Jon Galloway listing 10 helpful Microsoft MCP Servers with Learn Docs included. I think I agree :-)
+This was a nice surprise: Jon Galloway listing 10 helpful Microsoft MCP Servers with Learn included. I think I agree :-)
 
 ![img](../assets/images/2025-07-25-microsoft-mcp-servers.jpg)
 
