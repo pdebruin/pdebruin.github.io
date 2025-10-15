@@ -20,6 +20,8 @@ While all of this is new, I created a video that shows the C# sample of connecti
 
 ![img](../assets/images/2025-10-03-agent-framework.png)
 
+Disclaimer: I am not a professional youtuber, clearly :-) 
+
 [Demo video](https://www.youtube.com/watch?v=pe1nDBQmaOo)
 
 Thanks for reading! :-)
