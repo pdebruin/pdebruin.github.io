@@ -14,7 +14,7 @@ As you may know, I joined the Learn partnerships integrations team in May and ha
 
 To start this demonstration, I wanted Copilot to create all artifacts in the code section of a new GitHub repository, and I would only interact by creating GitHub issues and assign them to Copilot. Copilot then does its best to create things, which I will have to approve by processing the Pull Requests. 
 
-My goal was to create 
+My goal was to create: 
 * a dotnet 9 app, with devcontainer since GitHub codespaces only does dotnet 8 by default, and
 * a Marp presentation, created in markdown and run on GitHub Pages.
 * And actions, and a readme, etc.
@@ -23,7 +23,7 @@ Note, I only created issues with a title to explain the task, assigned them to c
 
 ![img](../assets/images/2025-10-10-github-copilot2.png)
 
-https://github.com/pdebruin/ghcptest/
+[Repo](https://github.com/pdebruin/ghcptest/)
 
 Pretty impressive, right? 
 

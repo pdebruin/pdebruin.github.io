@@ -18,6 +18,8 @@ While all of this is new, I created a video that shows the C# sample of connecti
 
 [Learn MCP Server](https://github.com/microsoftdocs/mcp)
 
-[Demo video](https://youtu.be/nfHWS1S6_pQ)
+![img](../assets/images/2025-10-03-agent-framework.png)
+
+[Demo video](https://www.youtube.com/watch?v=pe1nDBQmaOo)
 
 Thanks for reading! :-)
