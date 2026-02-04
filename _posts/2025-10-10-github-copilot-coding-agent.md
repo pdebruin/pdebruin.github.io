@@ -1,5 +1,5 @@
 ---
-title: "GitHub Copilot"
+title: "GitHub Copilot Coding Agent"
 categories:
   - Learning
 tags:
@@ -28,5 +28,9 @@ Note, I only created issues with a title to explain the task, assigned them to c
 Pretty impressive, right? 
 
 Biggest takeaway: While work is in progress [WIP], don't touch the issue or pull request and let it do its work. Duh! :-)
+
+Disclaimer: I am not a professional youtuber, clearly :-) 
+
+[Demo video](https://www.youtube.com/watch?v=IPGb5DRtgD8)
 
 Thanks for reading! :-)
