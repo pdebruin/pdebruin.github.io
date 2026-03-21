@@ -13,7 +13,7 @@ Without it, agents and language models use statistics, token prediction, to answ
 
 With Learn MCP Server, your agent has a direct connection to Learn content, which is trusted and up-to-date, and the answer quality increases drastically.
 
-![img](../assets/images/2026-02-13-how-we-built-learn-mcp-server.jpg)
+![Architecture diagram showing how Learn MCP Server connects AI agents to Microsoft Learn documentation through semantic search and content fetch tools](../assets/images/2026-02-13-how-we-built-learn-mcp-server.jpg)
 
 Previously the Learn team described [how we built the RAG-based knowledge service](https://devblogs.microsoft.com/engineering-at-microsoft/how-we-built-ask-learn-the-rag-based-knowledge-service/). Now we have also published [how we built Learn MCP Server](https://devblogs.microsoft.com/engineering-at-microsoft/how-we-built-the-microsoft-learn-mcp-server/), which builds on knowledge service. 
 

@@ -16,6 +16,6 @@ Some things are clear: you can talk about HR related things with anyone, but onl
 
 Another thing is clear: calling people mentors and mentees sets incorrect expectations. The way I see it is that everyone brings their own personality, values, talents, education, experience, etc. Sure, some may have been in a role or company longer than others, and hence have more to share. Communication and mentoring is always a two-way street where both participants can learn from themselves and from others.
 
-![img](../assets/images/2025-09-26-mentoring.jpg)
+![Hand-drawn sketchnote in a notebook titled Mentoring with tips: assume good intentions, come prepared, set expectations, ask more, listen, take notes](../assets/images/2025-09-26-mentoring.jpg)
 
 Thanks for reading! :-)
