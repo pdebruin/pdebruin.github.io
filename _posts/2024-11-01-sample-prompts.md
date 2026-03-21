@@ -12,6 +12,6 @@ While I was at the AI tour in Berlin last week, I noticed that hearing other peo
 
 [6 must-try features for GitHub Copilot for Azure](https://www.youtube.com/watch?v=OEJwzsWnLog&list=PLlrxD0HtieHgdwrN6ooxApdfBKTJK7465)
 
-![img](../assets/images/2024-11-01-sample-prompts.jpg)
+![Video screenshot showing four GitHub Copilot prompt types: Q&A, Pros and Cons, Stepwise Chain of Thought, and Role](../assets/images/2024-11-01-sample-prompts.jpg)
 
 Thanks for reading! :-)

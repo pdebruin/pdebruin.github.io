@@ -8,11 +8,11 @@ tags:
 
 As first step to experiment with the [RAG chat sample](https://github.com/Azure-Samples/azure-search-openai-demo), I adopted it to forget the sample data and learn about my own blog posts instead. The sample shows a question about northwind health plans and nothing else. 
 
-![img](../assets/images/2024-10-18-my-rag-chat1.jpg)
+![RAG chat app with default Northwind health plan data answering questions about plan coverage with citations](../assets/images/2024-10-18-my-rag-chat1.jpg)
 
 My blog doesn't cover anything of northwind health plans :-) and so I provided posts about Azure and subscriptions. 
 
-![img](../assets/images/2024-10-18-my-rag-chat2.jpg)
+![Customized RAG chat app now answering questions about Azure tenants and subscriptions using blog post data as source](../assets/images/2024-10-18-my-rag-chat2.jpg)
 
 Look at that! I am impressed. It knows my stuff, I can ask a question and get a proper answer. How did that work?
 
