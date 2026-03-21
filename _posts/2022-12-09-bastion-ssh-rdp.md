@@ -18,7 +18,7 @@ This is the point where I would normally provide azcli commands to create the re
 * On the Security tab, there is a checkbox to Enable Azure Bastion.
 * And then on the IP addresses tab, there is guidance on what ranges to use for the virtual network and subnets. This really helps when planning address spaces is not your daily job :-)
 
-![img](../assets/images/2022-12-09-bastion-ssh-rdp2.png)
+![img](../assets/images/2022-12-09-bastion-ssh-rdp2.jpg)
 
 Couldn't stop myself and wanted to add an azcli script anyway:
 

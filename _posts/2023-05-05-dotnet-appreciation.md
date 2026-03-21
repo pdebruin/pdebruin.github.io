@@ -31,6 +31,6 @@ Find out more dotnet features in [dotnetconf videos](https://www.youtube.com/wat
 
 In short, dotnet has all ingredients to be the tool of choice in your next project :-)
 
-![img](../assets/images/2023-05-05-dotnet-appreciation.png)
+![img](../assets/images/2023-05-05-dotnet-appreciation.jpg)
 
 Thanks for reading! :-)

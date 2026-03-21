@@ -12,7 +12,7 @@ This is another video I created recently. The first was about using the Microsof
 
 So soon after Learn MCP was released in public preview, people started asking about using it. The key piece was a swagger fragment, provided in a Learn article, and updated for Learn MCP by someone in the community. The video is mostly to educate people who are less familiar with Copilot Studio, MCP, or both, to show how to do it and what it looks like. 
 
-![img](../assets/images/2025-07-11-copilot-studio-and-mcp-video.png)
+![img](../assets/images/2025-07-11-copilot-studio-and-mcp-video.jpg)
 
 Once you have that Copilot Studio agent, you can publish it Teams and have a conversation with it there about Learn content. This is useful for people, who don't use VS Code as their primary tool, for instance for support engineers who handle questions and tickets. 
 

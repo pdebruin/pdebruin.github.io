@@ -1,0 +1,35 @@
+# Pieter's Cloud Journey
+
+> Weekly fragments on AI, Azure, Kubernetes, open source, and community by Pieter de Bruin. Mostly notes to self. May be useful to you too.
+
+Pieter is a technologist at Microsoft working in the learning and developer content space. He writes short weekly blog posts — typically 80–200 words — that curate and comment on developments in cloud technology, AI, and open source. The blog has been active since 2020 with 157 posts.
+
+## Topics
+
+- Artificial intelligence: AI agents, MCP (Model Context Protocol), RAG, GitHub Copilot, Copilot Studio, AI Foundry
+- Azure cloud: AKS (Kubernetes), identity, cost management, functions, architecture
+- Open source: contributing, community events, .NET, Linux
+- Learning and community: Microsoft Learn, mentoring, personal productivity, public speaking, volunteering
+
+## Key Posts
+
+- [How we built Learn MCP Server](https://blog.pdebruin.org/how-we-built-learn-mcp-server/): How the Microsoft Learn team built an MCP Server that connects AI agents to trusted documentation
+- [MCP for beginners](https://blog.pdebruin.org/mcp-for-beginners/): Introduction to Model Context Protocol
+- [Learn MCP Server generally available](https://blog.pdebruin.org/learn-mcp-server-generally-available/): GA announcement of Learn MCP Server
+- [Expert generalist](https://blog.pdebruin.org/expert-generalist/): Reflections on being a generalist in technology
+- [Mentoring](https://blog.pdebruin.org/mentoring/): Why mentoring matters and how to approach it
+- [Volunteering at three local events](https://blog.pdebruin.org/volunteering-at-three-local-events/): Meeting real people at community events
+- [Personal productivity](https://blog.pdebruin.org/personal-productivity/): Time management and prioritization
+- [My setup](https://blog.pdebruin.org/my-setup/): Tools and workflow for cross-platform development
+
+## Navigation
+
+- [All posts](https://blog.pdebruin.org/posts/)
+- [Categories](https://blog.pdebruin.org/categories/)
+- [Tags](https://blog.pdebruin.org/tags/)
+- [About](https://blog.pdebruin.org/about/)
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/pieterjmdebruin/)
+- [GitHub](https://github.com/pdebruin)

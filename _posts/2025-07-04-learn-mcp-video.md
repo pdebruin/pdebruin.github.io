@@ -12,7 +12,7 @@ Sometimes a document helps to convey a message, other times it can be a visualiz
 
 Oh, in short the video covers why and how of Learn MCP Server in VS Code and GitHub Copilot agent mode. Connect with us in the GitHub repository through discussion, isssues, and pull requests. Or find me through other channels to share feedback so we understand what works and where we can improve. 
 
-![img](../assets/images/2025-07-04-learn-mcp-video.png)
+![img](../assets/images/2025-07-04-learn-mcp-video.jpg)
 
 [Youtube video](https://www.youtube.com/watch?v=UkRRaKwmlHU)
 

@@ -16,7 +16,7 @@ Since the sample is rather thorough, it has quite a number of dependencies. To g
 
 This will additionally result in an [Azure app service](https://learn.microsoft.com/azure/app-service/overview?wt.mc_id=pdebruin_content_blog_cnl_csasci) that hosts the app, an [Azure storage account](https://learn.microsoft.com/azure/storage/blobs/storage-blobs-overview?wt.mc_id=pdebruin_content_blog_cnl_csasci) to store the scenario pdf files, and [Azure AI Document Intelligence service](https://learn.microsoft.com/azure/ai-services/document-intelligence/overview?wt.mc_id=pdebruin_content_blog_cnl_csasci) to analyze them. 
 
-![img](../assets/images/2024-09-13-ai-samples1.png)
+![img](../assets/images/2024-09-13-ai-samples1.jpg)
 
 Once the deployment is finished, you can access the app through the url of the app-backend. You can then interact with the solution, for instance by asking it about health plans. Finally the chat response contains citations, which you can click on to see the source pdf file. 
 

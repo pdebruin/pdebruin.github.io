@@ -16,6 +16,6 @@ Once you have Azure OpenAI deployed, you can build your customer genai solution.
 [Blog post](https://azure.microsoft.com/blog/azure-openai-service-10-ways-generative-ai-is-transforming-businesses/)?
 
 
-![img](../assets/images/2023-06-14-generative-ai.png)
+![img](../assets/images/2023-06-14-generative-ai.jpg)
 
 Thanks for reading! :-)

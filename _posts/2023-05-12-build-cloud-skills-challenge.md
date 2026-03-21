@@ -15,6 +15,6 @@ You can register [here](https://build.microsoft.com?wt.mc_id=pdebruin_content_bl
 
 That is all great, but what is in it for me? Well, good that you ask :-) There are [cloud skills challenges](https://www.microsoft.com/cloudskillschallenge/build/registration/2023?), that help you learn about a specific area. And during the month after build you can get a free exam voucher for completing them. Note that you can only get one exam voucher. And if you are interested to do a specific exam, you should do the corresponding challenge, see below. 
 
-![img](../assets/images/2023-05-12-build-cloud-skills-challenge.png)
+![img](../assets/images/2023-05-12-build-cloud-skills-challenge.jpg)
 
 Thanks for reading! :-)

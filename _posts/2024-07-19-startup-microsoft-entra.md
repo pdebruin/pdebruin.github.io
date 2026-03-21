@@ -16,6 +16,6 @@ There are a couple of things you want to take care of:
 
 Then you can explore Azure or M365 or Entra, depending on your interest. Even if you don't care much about identity, I think it is good to be aware of the functionality of Entra including protection, governance, verified id, and permissions management. 
 
-![img](../assets/images/2024-07-19-startup-microsoft-entra.png)
+![img](../assets/images/2024-07-19-startup-microsoft-entra.jpg)
 
 Thanks for reading! :-)

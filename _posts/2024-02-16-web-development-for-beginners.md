@@ -9,7 +9,7 @@ tags:
 
 Get ready to build your next great web app with .NET! ASP.NET Core is a fully featured and high-performance web framework that ships as part of the .NET platform. It's open-source, runs cross-platform, and powers some of the biggest services on the planet. 
 
-![img](../assets/images/2024-02-16-web-development-for-beginners.png)
+![img](../assets/images/2024-02-16-web-development-for-beginners.jpg)
 
 [Videos](https://learn.microsoft.com/shows/frontend-web-development-with-dotnet-for-beginners/?wt.mc_id=pdebruin_content_blog_cnl_csasci)
 

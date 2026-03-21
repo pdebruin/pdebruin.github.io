@@ -23,6 +23,6 @@ pretty prompt
 
 az cli
 
-![img](../assets/images/2023-03-31-ubuntu-on-surface-laptop-studio.png)
+![img](../assets/images/2023-03-31-ubuntu-on-surface-laptop-studio.jpg)
 
 Thanks for reading! :-)

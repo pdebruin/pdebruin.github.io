@@ -9,7 +9,7 @@ tags:
 
 Earlier this year I studied [GitHub learning paths](https://blog.pdebruin.org/github-learning-paths/) to prepare for the GitHub advanced security exam. Recently there was a new reason to play with advanced security for the preview of [Defender for DevOps](https://learn.microsoft.com/azure/defender-for-cloud/release-notes?wt.mc_id=pdebruin_content_blog_cnl_csasci)
 
-![img](../assets/images/2022-12-02-defender-for-devops.png)
+![img](../assets/images/2022-12-02-defender-for-devops.jpg)
 
 If you haven't worked with Defender for Cloud (DfC), previously Azure Security Center, it can assess your cloud services to report alerts and recommendations in one central location. For instance it can report suspicious file downloads and it can alert for operating system updates. The rename to DfC should also remind you that it can cover Azure, and Microsoft 365, and even services in other public clouds. There are also various specialized Defenders, like Defender for Servers, for Containers, for App Service, etc. And now there is [Defender for DevOps](https://learn.microsoft.com/azure/defender-for-cloud/defender-for-devops-introduction?wt.mc_id=pdebruin_content_blog_cnl_csasci).
 

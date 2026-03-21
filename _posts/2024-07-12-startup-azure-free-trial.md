@@ -14,7 +14,7 @@ Click on the Try Azure for free link [here](https://azure.microsoft.com/pricing/
 
 Sign in with your Microsoft account. 
 
-![img](../assets/images/2024-07-12-startup-azure-free-trial1.png)
+![img](../assets/images/2024-07-12-startup-azure-free-trial1.jpg)
 
 Fill out profile details. Note that for serious usage, you want to get the country and company vat id right.
 
@@ -22,7 +22,7 @@ Next your credit card information will be used for identity verification. As it 
 
 The final step is a warning about multi-factor authentication. As you know, MFA helps protect your account beyond an email and password that hackers can guess. If you don't have MFA enabled, please do so. Especially for this account, which is now subscription administator, but really for any account you care about.
 
-![img](../assets/images/2024-07-12-startup-azure-free-trial2.png)
+![img](../assets/images/2024-07-12-startup-azure-free-trial2.jpg)
 
 The below is optional. There are many things to do in your new subscription. Find a tutorial for the things you care about. If you don't have another plan, check out the [next post about Entra](../startup-microsoft-entra/) to learn more about identity and access management.
 

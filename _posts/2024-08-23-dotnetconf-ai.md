@@ -33,6 +33,6 @@ Build your own copilot with Teams AI library and .NET - Ayça Baş, John Miller 
 
 https://focus.dotnetconf.net/
 
-![img](../assets/images/2024-08-23-dotnetconf-ai.png)
+![img](../assets/images/2024-08-23-dotnetconf-ai.jpg)
 
 Thanks for reading! :-)

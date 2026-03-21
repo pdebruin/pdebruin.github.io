@@ -11,7 +11,7 @@ Azure Active Directory helps developers authenticate users in any app and any la
 
 Before you start developing with Azure Active Directory (AzureAD) it helps if you have global administrator access to an AzureAD instance. For instance, you may have access to a stand-alone Azure subscription through a trial or a [Visual Studio benefit](https://my.visualstudio.com/?wt.mc_id=pdebruin_content_blog_cnl_csasci). Another way is to join the [Microsoft 365 developer program](https://developer.microsoft.com/microsoft-365/dev-program?wt.mc_id=pdebruin_content_blog_cnl_csasci).
 
-![img](../assets/images/2022-11-18-azure-active-directory-for-developers.png)
+![img](../assets/images/2022-11-18-azure-active-directory-for-developers.jpg)
 
 [Watch the 11-minute walkthrough video](https://youtu.be/9rdHB-ewqLE)
 
