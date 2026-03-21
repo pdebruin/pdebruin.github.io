@@ -10,7 +10,7 @@ This week we made the Learn MCP Server available as public preview. I am very ex
 
 In short, GitHub Copilot uses a language model to analyze your request and provide a response. This is a challenge since that language model was trained on generic web content and its training stopped when the model was released. Learn MCP provides an interface for AI agents like GitHub Copilot, to ask a direct question to Learn, get max 10 results back, and shape an answer based on that trusted, up-to-date content. 
 
-![img](../assets/images/2025-06-13-learn-mcp-server.jpg)
+![VS Code showing mcp.json server configuration alongside GitHub Copilot Chat using microsoft_docs_search to answer Azure Container App CLI questions with documentation links](../assets/images/2025-06-13-learn-mcp-server.jpg)
 
 Interested? Give it a try. And share feedback in discussion, issues and pull requests. 
 
