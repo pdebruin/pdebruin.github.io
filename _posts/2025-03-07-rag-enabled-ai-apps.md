@@ -8,7 +8,7 @@ tags:
 
 This title is generic, but the blog post and video are actually very specifically about Ask Learn, the chat experience you have may have used through Azure portal copilot, to ask questions about your situation and get them answered through Learn documentation or Q&A answers. 
 
-![img](../assets/images/2025-03-07-rag-enabled-ai-apps.jpg)
+![Microsoft Engineering blog header for AI in Action: How to build scalable RAG-enabled AI apps, with abstract circuit board artwork](../assets/images/2025-03-07-rag-enabled-ai-apps.jpg)
 
 [Blog post](https://devblogs.microsoft.com/engineering-at-microsoft/ai-in-action-how-to-build-scalable-rag-enabled-ai-apps/)
 

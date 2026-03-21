@@ -10,7 +10,7 @@ Artificial intelligence is generating lots of excitement, confusion, criticism, 
 
 If you are specifically looking to get trained in a certain area, the latest trend is about agents, which go beyond retrievel augmented generation and chats, and are going to be able to perform actions. [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners) is the latest in a series of for beginners courses that everybody should read
 
-![img](../assets/images/2025-02-14-ai-agents-for-beginners.jpg)
+![AI Agents for Beginners course banner showing a robot character with connected nodes representing agent architecture concepts](../assets/images/2025-02-14-ai-agents-for-beginners.jpg)
 
 There are also other beginners courses:
 

@@ -10,7 +10,7 @@ Recently, the AI Tour was in New York City, and I saw a colleague share their pr
 
 They presented on AI Foundry, the service formerly known as AI Studio. The presentation is a large file with videos of demos included. 
 
-![img](../assets/images/2025-01-17-ai-foundry.jpg)
+![GitHub repository page for the AI Tour Concept to Creation with AI Studio workshop, showing the readme with setup instructions](../assets/images/2025-01-17-ai-foundry.jpg)
 
 [Repository](https://github.com/microsoft/aitour-concept-to-creation-ai-studio)
 

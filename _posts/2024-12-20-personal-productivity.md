@@ -22,7 +22,7 @@ One of the essential pieces is his interpretation of what [Eisenhower](https://e
 
 They are in a matrix or quadrant, where the first two are important, and the first and third are urgent. If you take away anything, let it be this.
 
-![img](../assets/images/2024-12-20-personal-productivity.jpg)
+![Hand-drawn Eisenhower matrix diagram with four quadrants: Do, Schedule, Delegate, and Eliminate, mapping urgency versus importance](../assets/images/2024-12-20-personal-productivity.jpg)
 
 Also since forever I have been following and using the work of JD Meier. His [agile results](https://gettingresults.com/getting-started/) should be mandatory for everyone in technology. 
 

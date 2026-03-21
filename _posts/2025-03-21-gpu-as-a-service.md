@@ -10,7 +10,7 @@ AI workloads can use lots of GPUs, which are expensive, hard to get, and require
 
 What if ... you could use GPUs as a service, don't own them, just pay for using them. Well, now you can with Azure Container Apps serverless GPUs 
 
-![img](../assets/images/2025-03-21-gpu-as-a-service.gif)
+![Animated demo of Azure Container Apps creating a serverless GPU workload, showing a container app scaling up with GPU allocation](../assets/images/2025-03-21-gpu-as-a-service.gif)
 
 [Blog post](https://techcommunity.microsoft.com/blog/appsonazureblog/announcing-ga-for-azure-container-apps-serverless-gpus/4394302)
 
