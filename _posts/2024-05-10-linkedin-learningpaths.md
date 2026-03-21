@@ -11,7 +11,7 @@ In LinkedIn Learning, I looked at [career journey](https://www.linkedin.com/lear
 
 Then I also saw it provides certification, which requires following a learning path of 6 hours and passing an exam of 150 questions. Now I love gamification in learning, so I did the learning path and exam. 
 
-![img](../assets/images/2024-05-10-linkedin-learningpaths.jpg)
+![LinkedIn Learning completion page for Aha! Product Management Professional Certificate with Get Certificate button](../assets/images/2024-05-10-linkedin-learningpaths.jpg)
 
 As a Microsoft employee, I have access to LinkedIn Learning, and I realize not everybody has. If you do, this post is for you. If you don't and are interested, investigate if you can get trial access. 
 

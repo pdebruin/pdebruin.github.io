@@ -33,6 +33,6 @@ Build your own copilot with Teams AI library and .NET - Ayça Baş, John Miller 
 
 https://focus.dotnetconf.net/
 
-![img](../assets/images/2024-08-23-dotnetconf-ai.jpg)
+![YouTube playlist for .NET Conf Focus on AI 2024 with 17 sessions on integrating AI into .NET applications](../assets/images/2024-08-23-dotnetconf-ai.jpg)
 
 Thanks for reading! :-)

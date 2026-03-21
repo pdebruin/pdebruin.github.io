@@ -12,7 +12,7 @@ If you are new to Azure, please check out previous posts in the startup series, 
 
 Once you go through that journey, you realize that your user store should be set up once, whereas there can be lots of reasons to have more than one subscriptions. So when you start with Azure, you create an Azure subscription, which does cost anything yet until you activate paid Azure services. At that point you don't create an Entra ID tenant, but you get one implicitly. And when you create additional subscriptions, they are normally automatically connected to that same tenant. 
 
-![img](../assets/images/2024-07-26-startup-azure-subscriptions-and-tenants.jpg)
+![Diagram showing Azure hierarchy from Microsoft Entra tenant through management groups, subscriptions, resource groups, and resources with role types](../assets/images/2024-07-26-startup-azure-subscriptions-and-tenants.jpg)
 
 [Image source](https://techcommunity.microsoft.com/t5/startups-at-microsoft/demystifying-microsoft-entra-id-tenants-and-azure-subscriptions/ba-p/4155261)
 
