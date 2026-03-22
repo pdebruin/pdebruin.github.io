@@ -18,7 +18,7 @@ Start with the end in mind: what do you want to achieve? Is your goal in life to
 
 Note that you don't have to be an industry expert at the start. The more you put in the program, the more you will get out of it. And if you are a student, we also have a Student Ambassador program. 
 
-![Microsoft Most Valuable Professional MVP logo in white on blue background](../assets/images/2023-05-19-most-valuable-professional.png)
+![Microsoft Most Valuable Professional MVP logo in white on blue background](/assets/images/2023-05-19-most-valuable-professional.png)
 
 [Transform your passion and skills into globally recognized community leadership](https://mvp.microsoft.com/)
 

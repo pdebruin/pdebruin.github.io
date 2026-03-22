@@ -10,7 +10,7 @@ tags:
 
 In previous episodes you may have witnessed me use a virtual machine in Azure. I always do that using [Azure Bastion](https://learn.microsoft.com/azure/bastion/bastion-overview?wt.mc_id=pdebruin_content_blog_cnl_csasci), which gives you secure access to Linux and Windows virtual machines using SSH or RDP over HTTPS, without exposing the VMs to the internet.
 
-![Azure Bastion architecture diagram showing secure SSH and RDP access over HTTPS](../assets/images/2022-12-09-bastion-ssh-rdp.png)
+![Azure Bastion architecture diagram showing secure SSH and RDP access over HTTPS](/assets/images/2022-12-09-bastion-ssh-rdp.png)
 
 You can simply access your virtual machines by navigating to them in the Azure Portal, select connect, Bastion, enter credentials and you are in. Or you can use azcli!
 
@@ -19,7 +19,7 @@ This is the point where I would normally provide azcli commands to create the re
 * On the Security tab, there is a checkbox to Enable Azure Bastion.
 * And then on the IP addresses tab, there is guidance on what ranges to use for the virtual network and subnets. This really helps when planning address spaces is not your daily job :-)
 
-![Azure Portal VM creation with Bastion checkbox and virtual network configuration](../assets/images/2022-12-09-bastion-ssh-rdp2.jpg)
+![Azure Portal VM creation with Bastion checkbox and virtual network configuration](/assets/images/2022-12-09-bastion-ssh-rdp2.jpg)
 
 Couldn't stop myself and wanted to add an azcli script anyway:
 

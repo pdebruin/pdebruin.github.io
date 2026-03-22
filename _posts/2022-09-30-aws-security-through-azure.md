@@ -9,7 +9,7 @@ tags:
 
 Did you know you can use Azure services to secure AWS? 
 
-![Identity videos](../assets/images/20220819-identityvideos.png)
+![Identity videos](/assets/images/20220819-identityvideos.png)
 
 
 https://learn.microsoft.com/azure/architecture/guide/aws/aws-azure-security-solutions?wt.mc_id=pdebruin_content_blog_cnl_csasci

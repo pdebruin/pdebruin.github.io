@@ -1,5 +1,6 @@
 ---
 title: "Learn MCP Server generally available"
+description: "Learn MCP Server is generally available, building on the knowledge service that powers Ask Learn and Azure Copilot."
 categories:
   - Learning
 tags:
@@ -12,7 +13,7 @@ Honestly, this was a bit of a surprise: Someone asked in the GitHub repository a
 
 In short, the change to generally available was a formality for us. You can see in the release notes that we did make some updates along the way, including publication of additional MCP Tools, while other updates are more internally focused. Most of the work has been on integration and adoption scenarios, that allow you to use Learn MCP Server in VS Code, various marketplaces including Foundry Tools Catalog and Copilot Studio certified connector, and Learn MCP Server is used in a number of in-product copilots that maybe less obvious from the outside. 
 
-![Learn MCP Server release notes page showing milestones from June to November 2025, including docs search, fetch, code samples, and GA announcement](../assets/images/2025-11-14-learn-mcp-server-generally-available.jpg)
+![Learn MCP Server release notes page showing milestones from June to November 2025, including docs search, fetch, code samples, and GA announcement](/assets/images/2025-11-14-learn-mcp-server-generally-available.jpg)
 
 [Repo](https://github.com/microsoftdocs/mcp)
 

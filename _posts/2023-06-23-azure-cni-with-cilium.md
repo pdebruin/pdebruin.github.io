@@ -17,6 +17,6 @@ Long story short: When you are creating a containerized app with no explicit net
 
 [Preview post](https://techcommunity.microsoft.com/t5/azure-networking-blog/azure-cni-powered-by-cilium-for-azure-kubernetes-service-aks/ba-p/3662341)
 
-![Azure CNI with Cilium architecture diagram showing Kubernetes node with pods, Azure IPAM, Cilium CNI, and eBPF kernel layer](../assets/images/2023-06-23-azure-cni-with-cilium.jpg)
+![Azure CNI with Cilium architecture diagram showing Kubernetes node with pods, Azure IPAM, Cilium CNI, and eBPF kernel layer](/assets/images/2023-06-23-azure-cni-with-cilium.jpg)
 
 Thanks for reading! :-)

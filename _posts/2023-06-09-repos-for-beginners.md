@@ -22,6 +22,6 @@ Specifically, with the buzz around artificial intelligence, I think it is great 
 
 Try them for your self. See what suits your learning needs. 
 
-![AI for Beginners illustrated sketchnote by Microsoft covering GOFAI, neural networks, deep learning, NLP, and machine learning topics](../assets/images/2023-06-09-repos-for-beginners.jpg)
+![AI for Beginners illustrated sketchnote by Microsoft covering GOFAI, neural networks, deep learning, NLP, and machine learning topics](/assets/images/2023-06-09-repos-for-beginners.jpg)
 
 Thanks for reading! :-)

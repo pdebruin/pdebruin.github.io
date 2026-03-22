@@ -9,7 +9,7 @@ tags:
 
 Global AI Bootcamp is a great way to meet with like-minded people who are learning about AI either locally in-person or virtually online. 
 
-![Global AI Bootcamp promotional graphic with a glowing brain illustration and community event branding](../assets/images/2025-03-14-global-ai-resources.jpg)
+![Global AI Bootcamp promotional graphic with a glowing brain illustration and community event branding](/assets/images/2025-03-14-global-ai-resources.jpg)
 
 If you didn't get a chance to join a meeting, you can still take a look at the material:
 

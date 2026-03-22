@@ -13,7 +13,7 @@ Learning html, css and javascript is offered by lots of organizations including 
 
 https://learn.microsoft.com/shows/beginners-series-to-javascript/?wt.mc_id=pdebruin_content_blog_cnl_csasci
 
-![img](../assets/images/2023-02-10-learning-the-big-three.png)
+![img](/assets/images/2023-02-10-learning-the-big-three.png)
 
 By the way, there are many beginner series on various languages including rust, java, bash, python, f#, c#, node, etc. 
 https://learn.microsoft.com/shows/browse?terms=beginner&wt.mc_id=pdebruin_content_blog_cnl_csasci

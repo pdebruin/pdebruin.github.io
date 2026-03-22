@@ -14,6 +14,6 @@ GitHub Models in public preview: Every developer can now become an AI developer 
 
 [Video](https://www.youtube.com/watch?v=WiBB8Lsgl7I)
 
-![GitHub Models marketplace showing Phi-3 mini model with JavaScript code sample and Azure AI Inference SDK](../assets/images/2024-08-30-github-models.jpg)
+![GitHub Models marketplace showing Phi-3 mini model with JavaScript code sample and Azure AI Inference SDK](/assets/images/2024-08-30-github-models.jpg)
 
 Thanks for reading! :-)

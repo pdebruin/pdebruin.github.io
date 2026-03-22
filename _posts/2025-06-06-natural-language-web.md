@@ -11,7 +11,7 @@ I have posted about MCP before. If you are interested in that space, you should 
 
 While this area is evolving quickly, it is clear that the web is expanding beyond browsers and humans. NLWeb builds on standards like schema.org and rss and has some fascinating concepts: For a website internally, NLWeb turns lists into a chat interface to interact with. Outside of a website, NLWeb is mentioning discoverability of content and MCP interfaces for agents. This space is new, so it is hard to tell where it is going and how fast. But if you are in the field of search engine optimizationg and web development, this should probably get your attention. 
 
-![Introducing NLWeb banner with a connected nodes network graphic on a blue-pink gradient background](../assets/images/2025-06-06-natural-language-web.jpg)
+![Introducing NLWeb banner with a connected nodes network graphic on a blue-pink gradient background](/assets/images/2025-06-06-natural-language-web.jpg)
 
 [Build presentation](https://build.microsoft.com/en-US/sessions/BRK240)
 

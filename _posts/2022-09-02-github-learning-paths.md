@@ -10,7 +10,7 @@ tags:
 
 Recently I learned about three GitHub learning paths and certifications. Since one of them is on security, I decided to explore that one.
 
-![GitHub learning paths](../assets/images/2022-09-02-github-learning-paths.jpg)
+![GitHub learning paths](/assets/images/2022-09-02-github-learning-paths.jpg)
 
 There are three collections available:
 * GitHub Actions

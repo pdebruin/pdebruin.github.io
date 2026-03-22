@@ -9,7 +9,7 @@ tags:
 
 intro
 
-![Identity videos](../assets/images/2022-07-29-zero-trust-learning-path.png)
+![Identity videos](/assets/images/2022-07-29-zero-trust-learning-path.png)
 
 Check out [zero trust learning path][zero-trust-learning-path].
 

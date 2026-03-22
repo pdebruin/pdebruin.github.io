@@ -9,7 +9,7 @@ tags:
 
 Dive into Azure AI Studio to learn how your customers can build generative AI applications such as an enterprise chat copilot. We'll share how to use prebuilt and customizable models from Azure OpenAI Service, leverage the playground for Retrieval Augmentation Generation, streamline the development cycle with prompt flow, evaluate model responses and AI apps for quality and safety, and scale Proof of Concepts (PoCs) for use in websites, applications, and other production environments. Join us for a journey of innovation!
 
-![Azure AI Studio preview home page showing Build your own copilot, multi-modality, and SDK options with recent projects list](../assets/images/2024-01-26-azure-ai-studio.jpeg)
+![Azure AI Studio preview home page showing Build your own copilot, multi-modality, and SDK options with recent projects list](/assets/images/2024-01-26-azure-ai-studio.jpeg)
 
 [Video](https://www.youtube.com/watch?v=--wUqOeAzWU)
 

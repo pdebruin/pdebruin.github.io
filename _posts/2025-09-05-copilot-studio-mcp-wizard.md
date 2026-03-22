@@ -11,7 +11,7 @@ This is a nice development that hasn't gotten much attention: You can now add an
 
 Previously, I have worked with a number of people to document how to add Learn MCP Server to a Copilot Studio agent by creating a custom connector using swagger. This was clearly not a simple approach that required more technical knowledge than you would expect from the average power user. Next I also spent quite some time to create a certified connector for Learn MCP Server, that would help users to simply click on an existing connector in the marketplace. While we succeeded in doing this, the process wasn't easy and took a long time to deploy globally, which doesn't work for the pace in which AI and MCP Servers are developing. So I am happy to see this, not so much for my own work, but for Copilot Studio users and for MCP Server developers. 
 
-![Copilot Studio Add tool wizard searching for Learn MCP, showing Microsoft Learn Docs MCP Server as a top result alongside other connectors](../assets/images/2025-09-05-copilot-studio-mcp-wizard.jpg)
+![Copilot Studio Add tool wizard searching for Learn MCP, showing Microsoft Learn Docs MCP Server as a top result alongside other connectors](/assets/images/2025-09-05-copilot-studio-mcp-wizard.jpg)
 
 [Docs](https://learn.microsoft.com/microsoft-copilot-studio/mcp-add-existing-server-to-agent)
 

@@ -9,7 +9,7 @@ tags:
 
 I just passed exam AI-102 and received the Azure AI Engineer certification 🎉 And [so can you](https://learn.microsoft.com/credentials/certifications/azure-ai-engineer/?wt.mc_id=pdebruin_content_blog_cnl_csasci) 🙂
 
-![Microsoft Certified Azure AI Engineer Associate certification banner with blue badge icon](../assets/images/2023-08-18-azure-ai-engineer.jpg)
+![Microsoft Certified Azure AI Engineer Associate certification banner with blue badge icon](/assets/images/2023-08-18-azure-ai-engineer.jpg)
 
 The learning path takes you through all the Azure AI Services, including Vision, Language, Search, Document Intelligence, and OpenAI. 
 

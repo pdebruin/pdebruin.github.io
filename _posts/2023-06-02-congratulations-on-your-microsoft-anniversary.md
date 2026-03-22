@@ -10,6 +10,6 @@ tags:
 
 Intro
 
-![img](../assets/images/2023-06-02-congratulations-on-your-microsoft-anniversary.png)
+![img](/assets/images/2023-06-02-congratulations-on-your-microsoft-anniversary.png)
 
 Thanks for reading! :-)

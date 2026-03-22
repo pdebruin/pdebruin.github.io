@@ -13,7 +13,7 @@ My takeaway was that sometimes we live in a bubble, where we work with a technol
 
 If you are one of those who have not investigated Model Context Protocol yet and want to, this could be for you. 
 
-![MCP for Beginners course thumbnail featuring April Gittens with Introduction to Model Context Protocol title](../assets/images/2025-11-07-mcp-for-beginners.jpg)
+![MCP for Beginners course thumbnail featuring April Gittens with Introduction to Model Context Protocol title](/assets/images/2025-11-07-mcp-for-beginners.jpg)
 
 I like this style of learning: lots to choose from and in separate sections. If you want to see it all, go through it sequentually, and if you are looking for something specific you can also dive in to one section ad-hoc. 
 

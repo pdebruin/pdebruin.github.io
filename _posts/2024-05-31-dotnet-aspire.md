@@ -13,7 +13,7 @@ Last week [.NET Aspire](https://devblogs.microsoft.com/dotnet/dotnet-aspire-gene
 
 Remember, .NET was created in a time when it was competing with other languages, both older from Microsoft as well as others, mostly Java. And it only ran on Windows. And it needed a big installation with Visual Studio. And so on. Since then, .NET has been made smaller with .NET Core, it runs on various operating systems, and in containers, with minimal APIs, and native ahead-of-time (=small) compilation.
 
-![.NET Aspire dashboard showing running Angular, React, and Vue frontends alongside a weather API, with terminal output of dotnet run](../assets/images/2024-05-31-dotnet-aspire.jpg)
+![.NET Aspire dashboard showing running Angular, React, and Vue frontends alongside a weather API, with terminal output of dotnet run](/assets/images/2024-05-31-dotnet-aspire.jpg)
 
 Aspire aims to make it easier to develop and troubleshoot apps. The first thing you notice is the apphost project that includes the related projects and services of your app. This makes working with multiple projects easier, since the startup behaviour of the solution is described in code. Second you notice that there is a dashboard, which lists those dependencies with endpoints, logs, and details, their console output, structured logs, traces, and metrics. I really like the samples which includes adding dotnet aspire to multiple javascript projects, which shows that is adds value to non-dotnet languages too. 
 

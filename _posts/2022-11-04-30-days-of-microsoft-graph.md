@@ -15,7 +15,7 @@ The challenge runs from November 1-30, 2022.
 
 Read more in the [introduction post](https://devblogs.microsoft.com/microsoft365dev/announcement-30-days-of-microsoft-graph-challenge?wt.mc_id=pdebruin_content_blog_cnl_csasci) and the [program roadmap](https://microsoft.github.io/30daysof/docs/roadmaps/microsoft-graph?wt.mc_id=pdebruin_content_blog_cnl_csasci).
 
-![30 Days of Microsoft Graph challenge banner for November 2022](../assets/images/2022-11-04-30-days-of-microsoft-graph.jpeg)
+![30 Days of Microsoft Graph challenge banner for November 2022](/assets/images/2022-11-04-30-days-of-microsoft-graph.jpeg)
 
 [Welcome to 30 days of Microsoft Graph](https://techcommunity.microsoft.com/t5/microsoft-learn/welcome-to-30-days-of-microsoft-graph/m-p/3667154)
 

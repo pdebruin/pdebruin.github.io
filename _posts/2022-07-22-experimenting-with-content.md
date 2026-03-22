@@ -15,7 +15,7 @@ For over two decades I have been working in IT, so you could say I am pretty tec
 *"Impostor syndrome [...] is a psychological occurrence in which an individual doubts their skills, talents, or accomplishments and has a persistent internalized fear of being exposed as a fraud.*
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Impostor_syndrome)
 
-![Imposter handbook](../assets/images/2022-07-22-experimenting-with-content.jpg)
+![Imposter handbook](/assets/images/2022-07-22-experimenting-with-content.jpg)
 
 Cover from [the imposter's handbook](https://bigmachine.io/products/the-imposters-handbook/)
 

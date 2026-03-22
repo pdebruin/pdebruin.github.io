@@ -24,7 +24,7 @@ The Azure Architecture Center also provides a wealth of resources for architects
 
 Overall, the Azure Architecture Center is an essential resource for anyone looking to build and maintain cloud-based solutions on Azure. Whether you're a seasoned cloud architect or just starting out, the Azure Architecture Center has something for everyone."
 
-![Azure Architecture Center homepage with reference architectures and best practices](../assets/images/2022-12-23-azure-architecture-center.jpeg)
+![Azure Architecture Center homepage with reference architectures and best practices](/assets/images/2022-12-23-azure-architecture-center.jpeg)
 
 Posted to [linkedin](https://www.linkedin.com/posts/pieterjmdebruin_azure-architecture-center-activity-7011279913584312321-bPf9) first.
 

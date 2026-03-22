@@ -9,7 +9,7 @@ tags:
 
 Learning new technologies can be hard and starting new projects with new technologies even harder. I prefer to only start from scratch when I know exactly what I am doing, which is not often :-) To help you start a new AI project, there is a new AI app template gallery. It contains samples, hosted on GitHub, in many languages, 
 
-![Azure AI app templates gallery showing featured templates for RAG, multimodal GenAI, and chat applications](../assets/images/2024-12-06-ai-app-templates.jpg)
+![Azure AI app templates gallery showing featured templates for RAG, multimodal GenAI, and chat applications](/assets/images/2024-12-06-ai-app-templates.jpg)
 
 For instance, there are 27 templates for 'rag chat', so that could be your next project.
 

@@ -11,7 +11,7 @@ tags:
 
 A couple of years ago Azure had the tagline: Cloud for all. I loved that because it made clear that you can run your solution on Azure, regardless of the operating systems, data stores, or programming languages it uses.
 
-![Using Azure on Linux](../assets/images/2022-10-21-azure-cloud-for-all.jpg)
+![Using Azure on Linux](/assets/images/2022-10-21-azure-cloud-for-all.jpg)
 
 Ubuntu, Suse, Redhat, etc
 

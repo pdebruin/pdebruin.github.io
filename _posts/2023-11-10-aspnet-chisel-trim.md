@@ -15,7 +15,7 @@ dotnet publish -p:PublishProfile=DefaultContainer
 -p:ContainerFamily=jammy-chiseled -p:PublishTrimmed=true --sc
 ```
 
-![Terminal showing dotnet publish with chiseled container and docker images comparing sizes from 40MB chiseled-trimmed to 217MB standard](../assets/images/2023-11-10-aspnet-chisel-trim.jpg)
+![Terminal showing dotnet publish with chiseled container and docker images comparing sizes from 40MB chiseled-trimmed to 217MB standard](/assets/images/2023-11-10-aspnet-chisel-trim.jpg)
 
 [Announcement](https://devblogs.microsoft.com/dotnet/announcing-dotnet-chiseled-containers/)
 

@@ -17,6 +17,6 @@ Once you have Azure OpenAI deployed, you can build your customer genai solution.
 [Blog post](https://azure.microsoft.com/blog/azure-openai-service-10-ways-generative-ai-is-transforming-businesses/)?
 
 
-![Azure OpenAI Studio welcome page showing Chat, Assistants, DALL-E, and Whisper playgrounds with Get started cards](../assets/images/2023-06-14-generative-ai.jpg)
+![Azure OpenAI Studio welcome page showing Chat, Assistants, DALL-E, and Whisper playgrounds with Get started cards](/assets/images/2023-06-14-generative-ai.jpg)
 
 Thanks for reading! :-)

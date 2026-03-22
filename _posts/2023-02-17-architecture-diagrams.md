@@ -33,7 +33,7 @@ Dark vs light
 
 Last week the [free tier](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-kubernetes-service-free-tier-and-standard-tier/ba-p/3731432?wt.mc_id=pdebruin_content_blog_cnl_csasci) for [Azure Kubernetes Service](https://learn.microsoft.com/azure/aks/intro-kubernetes?wt.mc_id=pdebruin_content_blog_cnl_csasci) was announced. Although it is correct, it also requires elaboration.
 
-![AKS architecture diagram showing control plane and node pool tiers](../assets/images/2023-02-03-azure-kubernetes-service-free-tier.png)
+![AKS architecture diagram showing control plane and node pool tiers](/assets/images/2023-02-03-azure-kubernetes-service-free-tier.png)
 
 To read more about cost management, check out [this post](https://blog.pdebruin.org/cost-management/).
 

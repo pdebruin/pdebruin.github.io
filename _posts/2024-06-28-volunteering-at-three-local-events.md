@@ -13,6 +13,6 @@ Even if you are a bit of an introvert, working from home all the time maybe a bi
 
 Let's see if I can work at a bigger international event in the next year... 
 
-![Group photo of approximately 30 community volunteers and speakers at an industrial venue with numbered loading docks](../assets/images/2024-06-28-volunteering-at-three-local-events.jpg)
+![Group photo of approximately 30 community volunteers and speakers at an industrial venue with numbered loading docks](/assets/images/2024-06-28-volunteering-at-three-local-events.jpg)
 
 Thanks for reading! :-)
