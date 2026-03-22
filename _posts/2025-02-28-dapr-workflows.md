@@ -1,5 +1,6 @@
 ---
 title: "Dapr workflows"
+description: "Dapr v1.15 brings workflow orchestration to stable production, enabling business process automation in any language."
 categories:
   - Learning
 tags:

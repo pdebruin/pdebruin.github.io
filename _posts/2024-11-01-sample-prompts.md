@@ -1,5 +1,6 @@
 ---
 title: "Sample prompts"
+description: "GitHub Copilot and Copilot for Azure video guides demonstrate effective prompting techniques and features."
 categories:
   - Learning
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "AI app templates"
+description: "Azure AI app templates gallery offers 27+ RAG chat and other pre-built samples across multiple languages."
 categories:
   - Learning
 tags:

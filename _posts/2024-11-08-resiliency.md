@@ -1,5 +1,6 @@
 ---
 title: "Resiliency"
+description: "Cloud resilience requires team expertise, documented requirements, and stakeholder feedback for effective strategies."
 categories:
   - Learning
 tags:

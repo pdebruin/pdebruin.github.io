@@ -1,5 +1,6 @@
 ---
 title: "Personal productivity"
+description: "Eisenhower matrix and agile results framework structure time management through priority and urgency assessment."
 categories:
   - Learning
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "AI Samples"
+description: "Azure Search OpenAI demo integrates language models with search, document analysis, and scenario-based data."
 categories:
   - Learning
 tags:

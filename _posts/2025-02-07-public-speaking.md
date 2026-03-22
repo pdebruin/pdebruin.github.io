@@ -1,5 +1,6 @@
 ---
 title: "Public speaking"
+description: "Scott Hanselman and Mark Russinovich share practical public speaking tips including preparation and storytelling."
 categories:
   - Learning
 tags:

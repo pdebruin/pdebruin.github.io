@@ -1,5 +1,6 @@
 ---
 title: "GitHub Models"
+description: "GitHub Models in public preview brings AI models to developers through Marketplace integration with VS Code."
 categories:
   - Learning
 tags:

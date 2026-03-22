@@ -1,5 +1,6 @@
 ---
 title: "Azure portal export to terraform and bicep"
+description: "Azure Portal now exports resources as Terraform and Bicep scripts for infrastructure automation and version control."
 categories:
   - Learning
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Global AI resources"
+description: "Global AI Bootcamp connects learners worldwide with AI education resources and live community events."
 categories:
   - Learning
 tags:

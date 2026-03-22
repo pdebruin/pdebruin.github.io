@@ -1,5 +1,6 @@
 ---
 title: "My RAG chat"
+description: "Customized RAG chat application uses blog posts as knowledge base instead of sample healthcare data."
 categories:
   - Learning
 tags:

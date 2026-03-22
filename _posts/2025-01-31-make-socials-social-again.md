@@ -1,5 +1,6 @@
 ---
 title: "Make socials social again"
+description: "Critical perspective on social platforms, privacy, democracy, and stepping away from problematic services."
 categories:
   - Learning
 tags:

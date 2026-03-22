@@ -1,5 +1,6 @@
 ---
 title: "Startup Microsoft Entra"
+description: "Microsoft Entra provides identity management including MFA, governance, and access control for Azure services."
 categories:
   - Learning
 tags:

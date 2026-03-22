@@ -1,5 +1,6 @@
 ---
 title: ".NET Conf Focus on AI"
+description: ".NET Conf Focus on AI eight-hour session covers AI patterns, semantic kernel, and generative applications."
 categories:
   - Learning
 tags:

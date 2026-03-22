@@ -1,5 +1,6 @@
 ---
 title: "AI community day 2"
+description: "AI Community Day in Utrecht connects global engineers, organizers, and volunteers advancing AI education accessibility."
 categories:
   - Learning
 tags:

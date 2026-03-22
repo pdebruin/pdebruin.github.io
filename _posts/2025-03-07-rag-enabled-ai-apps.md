@@ -1,5 +1,6 @@
 ---
 title: "RAG enabled AI apps"
+description: "Ask Learn uses RAG to answer questions about Azure through Learn documentation and Q&A content."
 categories:
   - Learning
 tags:

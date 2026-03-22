@@ -1,5 +1,6 @@
 ---
 title: "Startup Azure subscriptions and tenants"
+description: "Azure subscriptions and Entra tenants structure organizational identity and resource management hierarchies."
 categories:
   - Learning
 tags:

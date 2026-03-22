@@ -1,5 +1,6 @@
 ---
 title: "AI foundry"
+description: "AI Foundry (formerly AI Studio) workshop materials from AI Tour demonstrate agent-building capabilities."
 categories:
   - Learning
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Learn about Learn"
+description: "Presentation on Microsoft Learn's structure and direction at Greece Cloud AI Conference 2025."
 categories:
   - Learning
 tags:

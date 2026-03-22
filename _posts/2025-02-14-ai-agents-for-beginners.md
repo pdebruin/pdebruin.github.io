@@ -1,5 +1,6 @@
 ---
 title: "AI Agents for beginners"
+description: "AI Agents for Beginners course teaches autonomous agents that go beyond RAG to perform real actions."
 categories:
   - Learning
 tags:
