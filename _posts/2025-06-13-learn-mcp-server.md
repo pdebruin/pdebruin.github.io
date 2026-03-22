@@ -1,5 +1,6 @@
 ---
 title: "Learn MCP Server"
+description: "Learn MCP Server now in public preview, providing AI agents trusted and up-to-date learning content."
 categories:
   - Learning
 tags:

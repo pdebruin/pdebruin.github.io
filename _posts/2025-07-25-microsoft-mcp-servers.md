@@ -1,5 +1,6 @@
 ---
 title: "10 Microsoft MCP Servers to Accelerate Your Development Workflow"
+description: "Jon Galloway highlights ten Microsoft MCP servers with Learn Docs MCP Server ranked first."
 categories:
   - Learning
 tags:

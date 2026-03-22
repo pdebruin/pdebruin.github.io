@@ -1,5 +1,6 @@
 ---
 title: "GitHub Copilot Coding Agent"
+description: "Demonstrate GitHub Copilot autonomously building a .NET app and Marp presentation through issue assignments."
 categories:
   - Learning
 tags:

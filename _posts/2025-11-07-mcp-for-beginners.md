@@ -1,5 +1,6 @@
 ---
 title: "MCP for beginners"
+description: "Comprehensive MCP learning course with modular sections for beginners and advanced users alike."
 categories:
   - Learning
 tags:

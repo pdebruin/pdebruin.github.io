@@ -1,5 +1,6 @@
 ---
 title: "GitHub Copilot cli"
+description: "GitHub Copilot CLI released for command-line development, expanding agentic tooling beyond VS Code."
 categories:
   - Learning
 tags:

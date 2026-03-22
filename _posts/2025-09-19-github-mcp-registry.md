@@ -1,5 +1,6 @@
 ---
 title: "GitHub MCP Registry"
+description: "GitHub MCP Registry enables discovery and configuration of MCP servers, evolving toward dynamic activation."
 categories:
   - Learning
 tags:

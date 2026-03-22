@@ -1,5 +1,6 @@
 ---
 title: "Natural language web"
+description: "NLWeb enables natural language interfaces for websites and agent discovery through MCP integration."
 categories:
   - Learning
 tags:

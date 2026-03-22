@@ -1,5 +1,6 @@
 ---
 title: "Learn MCP video"
+description: "Screen recording demonstrating Learn MCP Server in VS Code agent mode for broader audience education."
 categories:
   - Learning
 tags:

@@ -1,5 +1,6 @@
 ---
 title: ".NET Conf on Modernization"
+description: ".NET Conf focus on modernization covering AI, upgrading, data, Aspire, and Blazor developments."
 categories:
   - Learning
 tags:

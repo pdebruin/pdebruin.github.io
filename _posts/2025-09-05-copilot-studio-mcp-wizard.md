@@ -1,5 +1,6 @@
 ---
 title: "Copilot Studio MCP Connector Creation Wizard"
+description: "Copilot Studio wizard simplifies adding MCP servers to agents without requiring custom swagger knowledge."
 categories:
   - Learning
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Azure Copilot generally available"
+description: "Copilot for Azure now generally available for service management, cost optimization, and troubleshooting."
 categories:
   - Learning
 tags:

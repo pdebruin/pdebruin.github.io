@@ -1,5 +1,6 @@
 ---
 title: "GPU as a service"
+description: "Azure Container Apps serverless GPUs enable pay-per-use GPU workloads without ownership overhead."
 categories:
   - Learning
 tags:

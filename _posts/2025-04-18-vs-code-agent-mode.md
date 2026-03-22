@@ -1,5 +1,6 @@
 ---
 title: "VS Code agent mode"
+description: "Burke Holland demonstrates VS Code agent mode, MCP integration, and bring-your-own-model key functionality."
 categories:
   - Learning
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Mentoring"
+description: "Mentoring as two-way personal connections creating impact through feedback, growth, and mutual learning."
 categories:
   - Learning
 tags:

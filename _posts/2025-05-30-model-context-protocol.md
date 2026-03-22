@@ -1,5 +1,6 @@
 ---
 title: "Model Context Protocol"
+description: "MCP brings specific functions and data to AI agents; VS Code with GitHub Copilot is primary host."
 categories:
   - Learning
 tags:

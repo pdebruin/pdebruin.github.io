@@ -1,5 +1,6 @@
 ---
 title: "GitHub Copilot modes"
+description: "Copilot's ask, edit, and agent modes provide flexible workflows from quick assistance to full autonomy."
 categories:
   - Learning
 tags:

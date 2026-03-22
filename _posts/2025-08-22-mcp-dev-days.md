@@ -1,5 +1,6 @@
 ---
 title: "MCP dev days"
+description: "MCP Dev Days event generated 18 videos covering MCP features, security, and SDK deep dives."
 categories:
   - Learning
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "MCP with Functions"
+description: "Azure Functions now supports building MCP tools remotely with server-sent events in Python, Node.js, C#."
 categories:
   - Learning
 tags:

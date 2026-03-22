@@ -1,5 +1,6 @@
 ---
 title: "Let's learn MCP"
+description: "Katie Savage and James Montemagno discuss MCP fundamentals, usage, and server building in C#."
 categories:
   - Learning
 tags:

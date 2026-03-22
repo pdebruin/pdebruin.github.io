@@ -1,5 +1,6 @@
 ---
 title: "Agent framework"
+description: "Microsoft Agent Framework combines AutoGen innovation and Semantic Kernel stability for agentic AI apps."
 categories:
   - Learning
 tags:

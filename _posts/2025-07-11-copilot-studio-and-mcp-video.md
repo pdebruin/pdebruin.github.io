@@ -1,5 +1,6 @@
 ---
 title: "Copilot Studio and MCP video"
+description: "Learn MCP Server integration with Copilot Studio enabling low-code agent development for support engineers."
 categories:
   - Learning
 tags:

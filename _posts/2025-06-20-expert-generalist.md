@@ -1,5 +1,6 @@
 ---
 title: "Expert generalist"
+description: "Expert generalists combine specialized knowledge with broad perspectives, enhancing specialists' contextual understanding."
 categories:
   - Learning
 tags:
