@@ -1,61 +1,60 @@
-# Blog Technical Improvement Plan
+# Blog Improvement Plan
 
-Audit performed 2026-03-21. Updated after investigating theme capabilities.
+## Fix 12 broken image references
 
-The blog uses [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) via `remote_theme: mmistakes/minimal-mistakes` (no version pin — always pulls latest, currently v4.28.0). The theme already includes built-in SEO (`_includes/seo.html`) that generates OG tags, canonical URLs, Twitter Cards, meta descriptions, ARIA labels, and article metadata. No additional SEO plugin is needed.
+These images were never committed to git — broken on the live blog. Options: remove refs, find replacements, or backfill from LinkedIn archive.
+
+| Post date | Missing image |
+|-----------|--------------|
+| 2022-07-29 | zero-trust-learning-path.png |
+| 2022-08-19 | 20220819-identityvideos.png (referenced twice) |
+| 2023-02-10 | learning-the-big-three.png |
+| 2023-03-17 | azure-kubernetes-service-introduction.png |
+| 2023-03-24 | azure-kubernetes-service-102.png |
+| 2023-05-26 | my-build-2023.png |
+| 2023-06-02 | congratulations-on-your-microsoft-anniversary.png |
+| 2023-06-30 | year-in-review.png |
+| 2023-07-07 | new-year-plans.png |
+| 2023-07-14 | microsoft-entra.png |
+| 2023-07-21 | ai-challenge.png |
+| 2023-09-22 | bicep.png |
 
 ---
 
-## Priority 1: Accessibility — fix image alt text
+## Backfill missing weekly posts from LinkedIn
 
-~145 posts use `![img](...)` — a meaningless alt text. Screen readers say "img" and search engines ignore these images entirely.
+Requested LinkedIn data archive (GDPR export). Once available, use post content to create blog posts for gaps.
 
-Replace with a short description of what the image shows. Does not need to be long:
-- `![img]` → `![Screenshot of AKS cluster in Azure portal]`
-- `![img]` → `![Slide from AI Tour presentation on RAG architecture]`
+### Deleted stub posts to restore (need LinkedIn content)
 
-The 15 posts from 2022 and a few others already have decent alt text — use those as examples.
+| Date | Title |
+|------|-------|
+| 2023-09-01 | New foundational C# certification |
+| 2023-09-08 | Python day |
+| 2023-09-15 | Microsoft Learn community content |
 
-**Approach:** This is a bulk task. Could be partially automated: for each post, the image filename often hints at the content (e.g., `2024-09-20-rag-chat.jpg` → "RAG Chat architecture diagram").
+### Missing weeks (excluding summer/holiday breaks) — 15 gaps
 
----
+| Gap | Weeks missing |
+|-----|---------------|
+| 2022-09-09 | 1 |
+| 2023-02-24 → 2023-03-03 | 2 |
+| 2023-09-29 → 2023-10-20 | 4 (right after deleted stubs) |
+| 2023-11-03 | 1 |
+| 2024-01-12 → 2024-01-19 | 2 |
+| 2024-03-01 → 2024-03-08 | 2 |
+| 2024-03-29 → 2024-04-05 | 2 |
+| 2025-10-24 | 1 |
 
-## Priority 2: SEO — add description to post front matter
+### Regular breaks (expected, no action needed)
 
-The theme uses `page.description | page.excerpt | site.description` for meta tags and OG tags. We standardize on `description:` (not `excerpt:`) because:
-- The theme checks `description` first
-- It has no auto-generation side effects (unlike `excerpt`, which Jekyll auto-generates from the first paragraph and uses in feed/list contexts)
-- It signals clear intent: this field is for meta tags
-
-**Example:**
-```yaml
----
-title: "How we built Learn MCP Server"
-description: "How the Microsoft Learn team built an MCP Server that connects AI agents directly to trusted documentation."
-categories:
-  - Learning
-tags:
-  - Artificial intelligence
----
-```
-
-**Approach:** Tackle incrementally — start with the 20 most-visited posts (check App Insights), then work through the rest over time.
+- **Summer** (Jul/Aug): 3 weeks off every year (12 total)
+- **Holidays** (Dec/Jan): 1-2 weeks off every year (7 total)
 
 ---
 
 ## Ongoing: Compress images before publishing
 
-Images should be resized to max 1920×1080 and compressed (JPG quality 85) before committing. Use ImageMagick:
-
 ```bash
 convert input.png -resize 1920x1080\> -quality 85 -strip output.jpg
 ```
-
----
-
-## Optional / later
-
-- Add `robots.txt` to repo root
-- Implement lazy loading for images
-- Add responsive image `srcset` markup
-- Configure `twitter.username` in _config.yml to enable Twitter Card metadata
