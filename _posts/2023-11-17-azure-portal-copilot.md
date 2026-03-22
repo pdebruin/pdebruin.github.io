@@ -1,5 +1,6 @@
 ---
 title: "Azure portal copilot"
+description: "Azure portal copilot generates CLI commands and steps for deploying and managing resources."
 categories:
   - Learning
 tags:

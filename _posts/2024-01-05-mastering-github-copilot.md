@@ -1,5 +1,6 @@
 ---
 title: "Mastering GitHub copilot"
+description: "Comprehensive curriculum teaches AI-driven paired programming with GitHub Copilot over ten hours."
 categories:
   - Learning
 tags:

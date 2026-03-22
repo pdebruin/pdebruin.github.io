@@ -1,5 +1,6 @@
 ---
 title: "KubeCon EU 2024 Azure day"
+description: "KubeCon EU preday showcased Azure Kubernetes Service capabilities and demonstrations through recorded videos."
 categories:
   - Learning
 tags:

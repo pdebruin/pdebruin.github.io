@@ -1,5 +1,6 @@
 ---
 title: "LinkedIn learning paths"
+description: "LinkedIn Learning certification paths enable career development with structured courses and exams."
 categories:
   - Learning
 tags:

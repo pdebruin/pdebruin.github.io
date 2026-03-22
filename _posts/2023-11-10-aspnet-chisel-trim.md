@@ -1,5 +1,6 @@
 ---
 title: "ASP chisel and trim"
+description: "Chiseled containers and trimming reduce ASP.NET container size from 217MB to 40MB."
 categories:
   - Learning
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "ZoomIt DemoType"
+description: "ZoomIt DemoType feature automates text entry during technical presentations and demos."
 categories:
   - Learning
 tags:

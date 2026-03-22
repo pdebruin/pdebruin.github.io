@@ -1,5 +1,6 @@
 ---
 title: "Azure AI studio"
+description: "Azure AI Studio enables building and deploying enterprise chat copilot applications at scale."
 categories:
   - Learning
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "AI chat app hack"
+description: "HackTogether event teaches building RAG-based chat apps using Azure OpenAI and AI Search."
 categories:
   - Learning
 tags:

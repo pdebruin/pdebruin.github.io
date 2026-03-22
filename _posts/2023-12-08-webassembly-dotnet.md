@@ -1,5 +1,6 @@
 ---
 title: "WebAssembly with .NET"
+description: "New WASI experimental workload allows .NET developers to build and run WebAssembly applications."
 categories:
   - Learning
 tags:

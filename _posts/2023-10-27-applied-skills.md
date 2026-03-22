@@ -1,5 +1,6 @@
 ---
 title: "Applied skills challenges"
+description: "Microsoft Applied Skills credentials verify technical competence through hands-on two-hour assessments."
 categories:
   - Learning
 tags:

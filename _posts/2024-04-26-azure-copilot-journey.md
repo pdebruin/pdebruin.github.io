@@ -1,5 +1,6 @@
 ---
 title: "Azure copilot journey"
+description: "Behind-the-scenes look at building the Microsoft Learn knowledge service powering Azure Copilot."
 categories:
   - Learning
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Web development for beginners"
+description: "ASP.NET Core is a high-performance open-source web framework for building scalable applications."
 categories:
   - Learning
 tags:

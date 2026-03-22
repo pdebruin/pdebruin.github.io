@@ -1,5 +1,6 @@
 ---
 title: "Startup Azure free trial"
+description: "Step-by-step guide to creating and activating an Azure free trial account with credit and benefits."
 categories:
   - Learning
 tags:

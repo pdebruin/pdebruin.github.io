@@ -1,5 +1,6 @@
 ---
 title: "Startup on Azure"
+description: "Overview of Azure options for startups: free tier, credits, trials, and Founders Hub support."
 categories:
   - Learning
 tags:

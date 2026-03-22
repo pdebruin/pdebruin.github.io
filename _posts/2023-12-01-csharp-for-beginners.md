@@ -1,5 +1,6 @@
 ---
 title: "C# for beginners"
+description: "Video series teaches C# fundamentals with expert instructors for aspiring developers."
 categories:
   - Learning
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Radius CNCF sandbox"
+description: "Radius accepted as CNCF sandbox project for defining and deploying cloud-native applications."
 categories:
   - Learning
 tags:

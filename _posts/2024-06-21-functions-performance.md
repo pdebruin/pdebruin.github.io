@@ -1,5 +1,6 @@
 ---
 title: "Azure Functions performance"
+description: "Azure Functions can scale to 32,000 requests per second while addressing cold start time improvements."
 categories:
   - Learning
 tags:

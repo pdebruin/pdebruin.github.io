@@ -1,5 +1,6 @@
 ---
 title: ".NET Aspire"
+description: ".NET Aspire simplifies developing and troubleshooting multi-service applications with dashboard visibility."
 categories:
   - Learning
 tags:

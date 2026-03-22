@@ -1,5 +1,6 @@
 ---
 title: ".NET 8 and AI quickstarts"
+description: "Quickstarts help integrate generative AI and large language models into existing .NET applications."
 categories:
   - Learning
 tags:

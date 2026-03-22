@@ -1,5 +1,6 @@
 ---
 title: "Volunteering at three local events"
+description: "Community engagement through volunteering at AI Community Day, Experts Live, and Azure Lowlands events."
 categories:
   - Learning
 tags:
