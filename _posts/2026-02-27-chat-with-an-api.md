@@ -7,9 +7,9 @@ tags:
   - Artificial intelligence
 ---
 
-Did you know you can chat with an API?! The Azure Functions team recently published a [blog post](https://techcommunity.microsoft.com/blog/TODO) about hosting declarative markdown agents. It goes into MCP configuration, agents and skills. They included a sample which connects with Learn MCP Server, that we know and love.
+Did you know you can chat with an API?! The Azure Functions team recently published a [blog post](https://techcommunity.microsoft.com/blog/appsonazureblog/host-declarative-markdown-based-agents-on-azure-functions/4496038) about hosting declarative markdown agents. It goes into MCP configuration, agents and skills. They included a sample which connects with Learn MCP Server, that we know and love.
 
-[Sample on GitHub](https://github.com/TODO)
+[Sample on GitHub](https://github.com/Azure-Samples/functions-markdown-agent)
 
 But here is the most interesting part that I found: it contains a custom skill that connects GitHub Copilot to the Azure prices API, explains how the API works, and allows it to get real-time pricing info.
 

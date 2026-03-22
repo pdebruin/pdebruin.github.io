@@ -11,7 +11,7 @@ With TikTok and YouTube Shorts, short-form videos are the hype today. If you wan
 
 ![TODO: replace with screenshot or thumbnail from the presentation](/assets/images/2026-02-20-learn-mcp-long-form.jpg)
 
-[YouTube video](https://www.youtube.com/watch?v=TODO)
+[YouTube video](https://www.youtube.com/watch?v=S9cKLn58K8M)
 
 Thanks to George-Chrysovalantis Grammatikos and Konstantinos Boutsioulis for doing the best speaker intros!
 
