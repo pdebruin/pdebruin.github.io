@@ -11,7 +11,7 @@ Have you experimented with AI agent skills? MCP Servers and skills combine reall
 
 Learn MCP Server published skills 2 months ago. Last week I wanted to define my own skills and came up with a Foundry agent skill and an Azure architecture agent skill.
 
-![screenshot of azarch agent skill repo](../assets/images/2026-03-06-azarch-skill.jpg)
+![screenshot of azarch agent skill repo](/assets/images/2026-03-06-azarch-skill.jpg)
 
 Try for yourself. Feedback welcome!
 
