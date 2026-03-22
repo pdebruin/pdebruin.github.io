@@ -23,6 +23,6 @@ pretty prompt
 
 az cli
 
-![img](../assets/images/2023-03-31-ubuntu-on-surface-laptop-studio.jpg)
+![Ubuntu desktop running on Surface Laptop Studio with customized terminal](../assets/images/2023-03-31-ubuntu-on-surface-laptop-studio.jpg)
 
 Thanks for reading! :-)

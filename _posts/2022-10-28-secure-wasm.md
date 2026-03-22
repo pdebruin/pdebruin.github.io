@@ -9,7 +9,7 @@ tags:
 
 At KubeCon in Detroit there was much attention for webassembly, a very interesting development although still in early stages. When you have followed the development of containers, this should be on your list too.
 
-![img](../assets/images/2022-10-28-secure-wasm.png)
+![WebAssembly ecosystem overview with Blazor and security considerations](../assets/images/2022-10-28-secure-wasm.png)
 
 Creating WebAssembly with Blazor is easy. Now there is more guidance on how to secure those. 
 

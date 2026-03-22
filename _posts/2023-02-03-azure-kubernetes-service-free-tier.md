@@ -10,7 +10,7 @@ Last week the [free tier](https://techcommunity.microsoft.com/t5/apps-on-azure-b
 
 Kubernetes and other container management technologies consist of [various components](https://kubernetes.io/docs/concepts/overview/components/). Most important for cost are the two types of nodes: managers and workers. These are relevant because commercial vendors may charge a license fee for nodes. And in the cloud you pay as you go for compute, storage and network capacity, so that can be another cost item. When three management instances per cluster are required for availability, these cost of machines plus licenses can add up. So one optimization AKS did, was to design the managed service so that managers were out of the customer's control, including maintenance and cost, and could be optimized for multi-tenancy.
 
-![img](../assets/images/2023-02-03-azure-kubernetes-service-free-tier.png)
+![AKS architecture diagram showing free tier control plane and paid worker nodes](../assets/images/2023-02-03-azure-kubernetes-service-free-tier.png)
 
 Side note: If you have never deployed a Kubernetes cluster manually, you should definitely do it once using [this step by step guide](https://github.com/ivanfioravanti/kubernetes-the-hard-way-on-azure). And then throw it away to never do it again. :-) That process will teach you a lot about Kubernetes and you will appreciate managed Kubernetes services even more.
 

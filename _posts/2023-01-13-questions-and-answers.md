@@ -10,6 +10,6 @@ There are many things we don't know but others may: Sometimes you seach for answ
 
 Recently Microsoft Q&A was [updated](https://learn.microsoft.com/answers/support/release-notes?wt.mc_id=pdebruin_content_blog_cnl_csasci) and now includes light and dark themes, a new rich-text editor, etc. I love these kind of updates that gradually make the platform easier to use. Hope you do too.
 
-![img](../assets/images/2023-01-13-questions-and-answers.jpg)
+![Microsoft Q&A platform interface with light and dark theme support](../assets/images/2023-01-13-questions-and-answers.jpg)
 
 Thanks for reading! :-)

@@ -11,7 +11,7 @@ Azure Active Directory helps developers authenticate users in any app and any la
 
 Before you start developing with Azure Active Directory (AzureAD) it helps if you have global administrator access to an AzureAD instance. For instance, you may have access to a stand-alone Azure subscription through a trial or a [Visual Studio benefit](https://my.visualstudio.com/?wt.mc_id=pdebruin_content_blog_cnl_csasci). Another way is to join the [Microsoft 365 developer program](https://developer.microsoft.com/microsoft-365/dev-program?wt.mc_id=pdebruin_content_blog_cnl_csasci).
 
-![img](../assets/images/2022-11-18-azure-active-directory-for-developers.jpg)
+![Azure Active Directory app registration and authentication flow overview](../assets/images/2022-11-18-azure-active-directory-for-developers.jpg)
 
 [Watch the 11-minute walkthrough video](https://youtu.be/9rdHB-ewqLE)
 
@@ -19,7 +19,7 @@ The most important thing to know about is application registrations. This is a w
 
 The good news is that there are [many samples](https://learn.microsoft.com/azure/active-directory/develop/sample-v2-code?wt.mc_id=pdebruin_content_blog_cnl_csasci) that cover authentication flows. In this case you will work with a [sample Node web app](https://github.com/Azure-Samples/ms-identity-javascript-nodejs-tutorial/blob/main/1-Authentication/1-sign-in/README.md?wt.mc_id=pdebruin_content_blog_cnl_csasci). Let's first focus on getting the sample to work, which should be easier than updating your own app with identity code and configuration from the sample.
 
-![img](../assets/images/2022-11-18-azure-active-directory-for-developers1.png)
+![Sample Node.js web app running locally with Azure AD authentication](../assets/images/2022-11-18-azure-active-directory-for-developers1.png)
 
 The sample requires an app registration, which is how you get the **client ID** or appID. It should be configured for authentication as web app with return url (http://localhost:4000/redirect when developing locally). The app registration is created in your instance of Azure Active Directory, which has a **tenant ID**. You also want to create a **client secret** or password.
 
@@ -30,7 +30,7 @@ az ad app credential reset --id <appId>
 
 ```
 
-![img](../assets/images/2022-11-18-azure-active-directory-for-developers2.png)
+![Azure CLI output showing client ID, tenant ID, and app configuration details](../assets/images/2022-11-18-azure-active-directory-for-developers2.png)
 
 The second command returns appId, password and tenant id, which you all need to configure the sample. Open appSettings.js in the app folder and replace the defaults with your values. Now you can run ```npm install```, ```npm start``` and open "http://localhost:4000" in your browser.
 

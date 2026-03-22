@@ -14,11 +14,11 @@ In the cloud you don't own physical assets but you do have to pay for what servi
 
 Before you start deploying resources in Azure, you should work with the pricing calculator to understand the cost impact of your solution. If this is too complex, ask for help. You really want to know what your solution will cost in various environments before turning it on.
 
-![img](../assets/images/2022-12-16-cost-management2.png)
+![Azure pricing calculator for estimating resource costs before deployment](../assets/images/2022-12-16-cost-management2.png)
 
 While you start deploying resource in Azure, you should become familiar Azure Cost management which helps with transparency. You can analyze what resources or resource groups cost for a day, a week, or any other period. And you can and should [set budgets and alerts](https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/) to get notified when spending crosses a certain threshold. During experimentation you will also learn about what resources are deployed and costs are incurred as a consequence to your actual deployment. For instance you will use some form of compute, and storage and cost, and depending on your workload they will cost. Next to this you may want to use resources that help performance or security of your solution and they will cost too.
 
-![img](../assets/images/2022-12-16-cost-management1.jpg)
+![Azure Cost Management dashboard showing spending analysis and budget tools](../assets/images/2022-12-16-cost-management1.jpg)
 
 Turn on what you want to use and turn off what you don't use. For instance, I often use a virtual machine in Azure to use its internet connection to pull container images, clone large repositories, etc during development. Those VMs have auto-shutdown enabled at 22:00 local time, so I don't pay for them at night in case I leave them running. Other services such as a website on App Service may always need to be online to respond to new visitors, but traffic may vary. This is where autoscaling can be useful, to only have the capacity running that you need, not all capacity needed for the busiest time.
 

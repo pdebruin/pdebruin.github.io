@@ -13,7 +13,7 @@ Note: If you missed the previous post about [Azure Active Directory for Develope
 
 Getting started with Microsoft Graph is easy: With [Microsoft Graph quick start](https://developer.microsoft.com/graph/quick-start?wt.mc_id=pdebruin_content_blog_cnl_csasci) you can choose your language, including NodeJS or Java, create an app registration, and download the pre-configured sample. The console app demonstrates how to list emails and to send an email.
 
-![img](../assets/images/2022-11-25-microsoft-graph.jpg)
+![Microsoft Graph quick-start setup for accessing emails and messages](../assets/images/2022-11-25-microsoft-graph.jpg)
 
 [Watch the 10-minute walkthrough video](https://youtu.be/LRZrFDTpOLs)
 
@@ -23,11 +23,11 @@ This app is going to access your calendar, so it needs more permissions than jus
 
 You can see the requiredResourceAccess in JSON using the command-line interface. And you can create an app registration with --required-resource-accesses and a JSON string or file. 
 
-![img](../assets/images/2022-11-25-microsoft-graph2.jpg)
+![Azure app registration API permissions configuration for Microsoft Graph](../assets/images/2022-11-25-microsoft-graph2.jpg)
 
 Beyond emails and calendar events there is a lot of additional information in Microsoft Graph. The best way to find out is using the [Graph Explorer](https://developer.microsoft.com/graph/graph-explorer), which provides sample queries to compliance, identity and access, and security, etc. It shows details of the requests, responses and required permissions for the REST APIs. The [Graph API Reference docs](https://learn.microsoft.com/graph/api/resources/security-api-overview?wt.mc_id=pdebruin_content_blog_cnl_csasci) contain more information.
 
-![img](../assets/images/2022-11-25-microsoft-graph1.png)
+![Graph Explorer tool interface for testing Microsoft Graph API calls](../assets/images/2022-11-25-microsoft-graph1.png)
 
 Once you know what operation you need, the simpler way is to develop with the [Microsoft Graph SDKs](https://learn.microsoft.com/graph/sdks/sdks-overview?wt.mc_id=pdebruin_content_blog_cnl_csasci)
 
