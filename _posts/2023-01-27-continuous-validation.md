@@ -1,5 +1,6 @@
 ---
 title: "Continuous validation"
+description: "Azure Load Testing and Chaos Studio validate mission-critical workloads through continuous testing."
 categories:
   - Learning
 tags:

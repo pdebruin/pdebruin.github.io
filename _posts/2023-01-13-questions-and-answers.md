@@ -1,5 +1,6 @@
 ---
 title: "Microsoft Q&A update"
+description: "Microsoft Q&A platform updated with light/dark themes and improved editor for community support."
 categories:
   - Learning
 tags:

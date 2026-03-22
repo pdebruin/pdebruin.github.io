@@ -1,5 +1,6 @@
 ---
 title: "Azure Architecture Center"
+description: "Comprehensive Azure architecture guide with best practices, patterns, and reference implementations."
 categories:
   - Learning
 tags:

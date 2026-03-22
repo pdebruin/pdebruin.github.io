@@ -1,5 +1,6 @@
 ---
 title: "Microsoft Learn contributor home"
+description: "Centralized hub for Microsoft Learn contributors to improve documentation and share expertise."
 categories:
   - Learning
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Ubuntu on Surface laptop studio"
+description: "Installing Ubuntu on Surface Laptop Studio for dual-boot with Windows and Linux environments."
 categories:
   - Learning
 tags:

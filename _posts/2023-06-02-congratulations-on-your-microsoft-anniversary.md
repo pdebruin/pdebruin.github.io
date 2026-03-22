@@ -1,5 +1,6 @@
 ---
 title: "Congratulations on your Microsoft anniversary!"
+description: "Recognition of Microsoft service milestones and team accomplishments."
 categories:
   - Learning
 tags:

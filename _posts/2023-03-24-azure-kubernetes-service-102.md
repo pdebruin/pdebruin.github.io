@@ -1,5 +1,6 @@
 ---
 title: "Azure Kubernetes Service 102"
+description: "Post-deployment AKS setup: monitoring, application deployment, GitOps, and Azure AD authentication."
 categories:
   - Learning
 tags:

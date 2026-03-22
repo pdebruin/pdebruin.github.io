@@ -1,5 +1,6 @@
 ---
 title: "AKS start here"
+description: "Microsoft Learn provides training paths and reference architectures for Azure Kubernetes Service."
 categories:
   - Learning
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "What makes great architecture diagrams"
+description: "Creating effective architecture diagrams: reuse, storytelling, and Azure design guidelines."
 categories:
   - Learning
 tags:

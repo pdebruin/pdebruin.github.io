@@ -1,5 +1,6 @@
 ---
 title: "AI challenge"
+description: "Microsoft Cloud Skills Challenge for learning AI, now accessible to end users beyond specialists."
 categories:
   - Learning
 tags:

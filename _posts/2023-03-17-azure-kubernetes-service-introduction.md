@@ -1,5 +1,6 @@
 ---
 title: "Azure Kubernetes Service introduction"
+description: "Getting started with Kubernetes and AKS: required tools and command-line environment setup."
 categories:
   - Learning
 tags:

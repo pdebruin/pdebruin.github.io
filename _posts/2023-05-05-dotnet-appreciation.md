@@ -1,5 +1,6 @@
 ---
 title: "DotNet appreciation"
+description: ".NET is open-source, cross-platform, and offers WebAssembly and self-contained deployments."
 categories:
   - Learning
 tags:

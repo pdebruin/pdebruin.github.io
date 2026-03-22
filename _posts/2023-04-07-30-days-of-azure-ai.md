@@ -1,5 +1,6 @@
 ---
 title: "30 days of Azure AI"
+description: "Month-long campaign to learn Azure AI services, transformers, and co-pilots in AI April."
 categories:
   - Learning
 tags:

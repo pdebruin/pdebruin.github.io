@@ -1,5 +1,6 @@
 ---
 title: "Microsoft Build cloud skills challenge"
+description: "Free exam voucher opportunity through cloud skills challenges during Microsoft Build 2023."
 categories:
   - Learning
 tags:

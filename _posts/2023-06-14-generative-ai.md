@@ -1,5 +1,6 @@
 ---
 title: "Generative AI"
+description: "Azure OpenAI Service secures generative AI with identity and network controls for enterprises."
 categories:
   - Learning
 tags:

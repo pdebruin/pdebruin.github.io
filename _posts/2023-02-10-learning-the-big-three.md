@@ -1,5 +1,6 @@
 ---
 title: "Learning the big three"
+description: "Master HTML, CSS, and JavaScript fundamentals before exploring specific frameworks and trends."
 categories:
   - Learning
 tags:

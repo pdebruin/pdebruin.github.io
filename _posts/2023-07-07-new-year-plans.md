@@ -1,5 +1,6 @@
 ---
 title: "New year plans"
+description: "Resetting goals and experimenting with the fediverse for microblogging and content distribution."
 categories:
   - Learning
 tags:

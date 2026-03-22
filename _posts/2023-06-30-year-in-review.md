@@ -1,5 +1,6 @@
 ---
 title: "Year in review"
+description: "Reflecting on 40 blog posts in a year and challenges of creating technical video content."
 categories:
   - Learning
 tags:

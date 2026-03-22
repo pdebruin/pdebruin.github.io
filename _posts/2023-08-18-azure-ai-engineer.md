@@ -1,5 +1,6 @@
 ---
 title: "Azure AI engineer"
+description: "Azure AI Engineer certification path covering vision, language, search, and OpenAI services."
 categories:
   - Learning
 tags:

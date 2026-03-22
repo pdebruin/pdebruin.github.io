@@ -1,5 +1,6 @@
 ---
 title: "Microsoft Entra"
+description: "Microsoft's identity and access management solution for securing organizational resources."
 categories:
   - Learning
 tags:

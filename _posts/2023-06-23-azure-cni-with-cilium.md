@@ -1,5 +1,6 @@
 ---
 title: "Azure CNI with Cilium"
+description: "eBPF-based container networking with Cilium offering high performance and low latency for AKS."
 categories:
   - Learning
 tags:

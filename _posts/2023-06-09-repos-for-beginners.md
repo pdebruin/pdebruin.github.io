@@ -1,5 +1,6 @@
 ---
 title: "Repos for beginners"
+description: "Microsoft's beginner-friendly repositories for learning AI, data science, and machine learning."
 categories:
   - Learning
 tags:

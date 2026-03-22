@@ -1,5 +1,6 @@
 ---
 title: "AKS free tier"
+description: "AKS free tier eliminates management node costs while you pay for worker nodes and compute."
 categories:
   - Learning
 tags:

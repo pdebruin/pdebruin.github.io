@@ -1,5 +1,6 @@
 ---
 title: "Most valuable professional"
+description: "Building your personal brand through MVP program and community engagement for career growth."
 categories:
   - Learning
 tags:

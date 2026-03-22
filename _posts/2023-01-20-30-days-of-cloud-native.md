@@ -1,5 +1,6 @@
 ---
 title: "30 days of cloud-native and Learn Collections"
+description: "Cloud-native campaign and Learn Collections: curated resources for AKS, Container Apps, Functions."
 categories:
   - Learning
 tags:
