@@ -1,5 +1,6 @@
 ---
 title: "Azure security on AWS"
+description: "Use Azure security services to secure and manage AWS workloads."
 categories:
   - Learning
 tags:

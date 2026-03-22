@@ -1,5 +1,6 @@
 ---
 title: "GitHub learning paths"
+description: "Three GitHub learning paths cover Actions, Advanced Security, and Administration with certifications available."
 categories:
   - Learning
 tags:

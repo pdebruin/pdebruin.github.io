@@ -1,5 +1,6 @@
 ---
 title: "Cost management"
+description: "Plan and monitor Azure spending using the pricing calculator, Cost Management, budgets, alerts, and reservations."
 categories:
   - Learning
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Entra and Microsoft Graph"
+description: "Access Microsoft 365 and security data through Microsoft Graph APIs using SDKs and the Graph Explorer."
 categories:
   - Learning
 tags:

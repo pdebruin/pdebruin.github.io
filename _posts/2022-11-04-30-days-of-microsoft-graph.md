@@ -1,5 +1,6 @@
 ---
 title: "30 days of Microsoft Graph"
+description: "Participate in the 30 Days of Microsoft Graph challenge to build productivity apps using Microsoft Graph APIs."
 categories:
   - Learning
 tags:

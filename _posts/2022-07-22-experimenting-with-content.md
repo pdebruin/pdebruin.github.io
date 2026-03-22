@@ -1,5 +1,6 @@
 ---
 title: "Experimenting with content"
+description: "Overcome imposter syndrome and share your knowledge through blogs, videos, and social platforms."
 categories:
   - Learning
 tags:

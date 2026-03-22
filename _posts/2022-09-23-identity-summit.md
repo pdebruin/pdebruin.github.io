@@ -1,5 +1,6 @@
 ---
 title: "Identity summit"
+description: "Attend Cloud Identity Summit in Bonn to connect with identity experts and learn about Azure AD and verifiable credentials."
 categories:
   - Learning
 tags:

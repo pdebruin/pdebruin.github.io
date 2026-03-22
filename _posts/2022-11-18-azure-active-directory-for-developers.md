@@ -1,5 +1,6 @@
 ---
 title: "Azure Active Directory for developers"
+description: "Authenticate users in any app using Azure AD app registrations, authentication flows, and consent management."
 categories:
   - Learning
 tags:

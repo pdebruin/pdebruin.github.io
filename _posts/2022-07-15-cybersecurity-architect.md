@@ -1,5 +1,6 @@
 ---
 title: "Cybersecurity architect"
+description: "Pursue the SC-100 Microsoft Certified Cybersecurity Architect Expert certification with dedicated learning paths."
 categories:
   - Learning
 tags:

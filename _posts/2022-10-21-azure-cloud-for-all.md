@@ -1,5 +1,6 @@
 ---
 title: "Azure. Cloud for all."
+description: "Azure supports any operating system, programming language, and database for your cloud solutions."
 categories:
   - Learning
 tags:

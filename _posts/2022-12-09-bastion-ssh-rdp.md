@@ -1,5 +1,6 @@
 ---
 title: "Secure VM access using Azure Bastion"
+description: "Use Azure Bastion for secure SSH and RDP access to virtual machines over HTTPS without internet exposure."
 categories:
   - Learning
 tags:

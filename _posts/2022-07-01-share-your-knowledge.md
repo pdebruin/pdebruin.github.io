@@ -1,5 +1,6 @@
 ---
 title: "Share your knowledge"
+description: "Grow from enthusiast to authority by sharing content through blogs, videos, and community engagement."
 categories:
   - Learning
 tags:

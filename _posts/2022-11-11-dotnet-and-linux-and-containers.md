@@ -1,5 +1,6 @@
 ---
 title: ".NET and Linux and containers"
+description: "Run .NET applications on Linux and in containers using Alpine images for smaller, faster deployments."
 categories:
   - Learning
 tags:

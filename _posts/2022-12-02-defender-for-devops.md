@@ -1,5 +1,6 @@
 ---
 title: "Defender for DevOps"
+description: "Connect GitHub and Azure DevOps repositories to Defender for Cloud for centralized repository security scanning."
 categories:
   - Learning
 tags:

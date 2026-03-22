@@ -1,5 +1,6 @@
 ---
 title: "Accessing Microsoft Azure using powershell or command-line interface"
+description: "Access Azure using PowerShell, CLI, and WSL from Windows Terminal or Azure Cloud Shell."
 categories:
   - Learning
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Learn rebrand"
+description: "Microsoft Learn now consolidates documentation, training paths, and architecture guidance in one platform."
 categories:
   - Learning
 tags:

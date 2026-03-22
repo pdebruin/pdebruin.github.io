@@ -1,5 +1,6 @@
 ---
 title: "Secure webassembly"
+description: "Secure WebAssembly applications built with Blazor using authentication and Entra ID integration."
 categories:
   - Learning
 tags:

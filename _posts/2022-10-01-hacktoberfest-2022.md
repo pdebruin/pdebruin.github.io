@@ -1,5 +1,6 @@
 ---
 title: "Hacktoberfest"
+description: "Contribute to open source projects and Microsoft Learn content during Hacktoberfest in October."
 categories:
   - Learning
 tags:

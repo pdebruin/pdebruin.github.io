@@ -1,5 +1,6 @@
 ---
 title: "Identity videos"
+description: "Watch six introductory videos on Microsoft Identity by April Edwards and Christos Matskas."
 categories:
   - Learning
 tags:

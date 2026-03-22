@@ -1,5 +1,6 @@
 ---
 title: "Contributing"
+description: "Contribute to Microsoft Learn by answering questions and sharing knowledge in the community."
 categories:
   - Learning
 tags:

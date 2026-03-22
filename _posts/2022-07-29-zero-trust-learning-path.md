@@ -1,5 +1,6 @@
 ---
 title: "Zero trust learning path"
+description: "Learn zero trust principles and security architecture through Microsoft's dedicated learning path."
 categories:
   - Learning
 tags:
