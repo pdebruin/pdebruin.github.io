@@ -25,7 +25,7 @@ And for Claude Code users, the microsoft-docs plugin is now available in the off
 
 ![screenshot of Learn CLI](/assets/images/2026-03-20-learn-cli-and-plugins.jpg)
 
-What is interesting is that agents with skills are increasingly capable of invoking CLI tools directly. TODO: expand on this angle.
+What is interesting is that agents with skills are increasingly capable of invoking CLI tools directly. 
 
 [Learn MCP repo](https://github.com/MicrosoftDocs/mcp)
 

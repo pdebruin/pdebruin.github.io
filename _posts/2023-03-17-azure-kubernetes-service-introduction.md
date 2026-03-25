@@ -30,8 +30,4 @@ kubectl
 https://learn.microsoft.com/cli/azure/aks?view=azure-cli-latest#az-aks-install-cli&wt.mc_id=pdebruin_content_blog_cnl_csasci
 az aks install-cli
 
-![img](/assets/images/2023-03-17-azure-kubernetes-service-introduction.png)
-
-
-
 Thanks for reading! :-)

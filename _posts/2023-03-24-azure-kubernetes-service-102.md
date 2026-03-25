@@ -19,6 +19,4 @@ Next you want to deploy an application. You can do that manually using kubectl o
 
 Lastly I always enable [Azure Active Directory authentication](https://learn.microsoft.com/azure/aks/managed-azure-ad) on AKS. This means that a user who wants to interact with the cluster, first has to authenticate against Azure AD, and then authorization either in Azure AD or AKS is applied. As you can imagine, this drastically improves security for bad actors.
 
-![img](/assets/images/2023-03-17-azure-kubernetes-service-102.png)
-
 Thanks for reading! :-)
