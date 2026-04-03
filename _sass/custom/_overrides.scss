@@ -22,6 +22,8 @@ a {
 .archive__item-title a,
 .toc a,
 .search-content a,
+.page__footer a,
+.page__footer-follow a,
 a[class*="btn"],
 a > img {
   border-bottom: none;
@@ -51,21 +53,74 @@ h4, h5, h6 {
   border: 3px solid #E8D4C6;
 }
 
+/* Author sidebar links — monochrome, minimal (match landing page) */
+.author__urls {
+  a {
+    color: var(--charcoal-light, #636e72);
+    font-size: 0.85em;
+    font-weight: 400;
+    transition: color 0.2s ease;
+
+    &:hover {
+      color: #2D3436;
+    }
+  }
+
+  .fas, .fab, .far, .fal {
+    color: #636e72;
+    transition: color 0.2s ease;
+  }
+
+  a:hover .fas,
+  a:hover .fab,
+  a:hover .far,
+  a:hover .fal {
+    color: #2D3436;
+  }
+}
+
 /* Author name in sidebar */
 .author__name {
   font-family: 'Cormorant Garamond', Georgia, serif;
   font-weight: 600;
 }
 
-/* Footer — clean, minimal */
+/* Footer — clean, minimal, match landing page monochrome style */
 .page__footer {
   background-color: #FBF2ED;
   border-top: 1px solid #CECED7;
   color: #636e72;
+
+  a {
+    color: #636e72;
+    transition: color 0.2s ease;
+
+    &:hover {
+      color: #2D3436;
+      text-decoration: none;
+    }
+  }
+
+  .fas, .fab, .far, .fal {
+    color: #636e72;
+  }
 }
 
 .page__footer footer {
   color: #636e72;
+}
+
+.page__footer-follow {
+  li {
+    text-transform: none;
+    font-weight: 400;
+    font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 0.85em;
+  }
+
+  a {
+    font-weight: 400;
+  }
 }
 
 /* Pagination links */
