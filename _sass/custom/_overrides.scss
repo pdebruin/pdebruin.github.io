@@ -205,19 +205,43 @@ h4, h5, h6 {
   border-top: 2px solid #CECED7;
 }
 
-/* Tag/category badges */
+/* Tag/category badges — restore full box border */
 .page__taxonomy-item {
-  border-color: #CECED7;
+  border: 1px solid #CECED7 !important;
   color: #2D3436;
   background-color: transparent;
 
   &:hover {
     background-color: #CDD5C6;
     color: #2D3436;
+    border-color: #CDD5C6 !important;
   }
 }
 
-/* Related posts heading — sans at small size, serif too spindly here */
+/* Pagination links — restore box styling */
+.pagination a,
+.pagination span {
+  border: 1px solid #CECED7 !important;
+
+  &:hover {
+    background-color: #CECED7;
+    border-color: #CECED7 !important;
+  }
+}
+
+.pagination .current {
+  border: 1px solid #CECED7 !important;
+}
+
+/* Prev/Next navigation */
+.pagination--pager {
+  border: 1px solid #CECED7 !important;
+
+  &:hover {
+    background-color: #CECED7;
+    border-color: #CECED7 !important;
+  }
+}
 .page__related-title {
   font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
   font-weight: 500;
