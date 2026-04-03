@@ -144,9 +144,26 @@ h4, h5, h6 {
   }
 }
 
-/* Related posts heading */
+/* Related posts heading — sans at small size, serif too spindly here */
 .page__related-title {
-  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #636e72;
+}
+
+/* Cap font weights to what Outfit actually loads (300–500) */
+.masthead__menu-item--lg,
+.greedy-nav a,
+.nav__title {
+  font-weight: 500;
+}
+
+/* Archive item titles — consistent sans */
+.archive__item-title {
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-weight: 500;
 }
 
 /* Search input */
