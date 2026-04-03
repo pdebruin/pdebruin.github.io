@@ -27,6 +27,7 @@ a {
 .btn,
 .back-to-top,
 .author__urls a,
+.author__avatar a,
 .archive__item-title a,
 .toc a,
 .search-content a,
@@ -101,8 +102,25 @@ h4, h5, h6 {
 }
 
 /* Author sidebar — blush border on avatar to match landing page */
-.author__avatar img {
-  border: 3px solid #E8D4C6;
+.author__avatar {
+  a {
+    border-bottom: none;
+    text-decoration: none;
+
+    &:hover,
+    &:focus {
+      border-bottom: none;
+      text-decoration: none;
+    }
+  }
+
+  img {
+    border: 3px solid #E8D4C6;
+
+    &:hover {
+      border-color: #E8D4C6;
+    }
+  }
 }
 
 /* Author sidebar links — monochrome, minimal (match landing page) */
