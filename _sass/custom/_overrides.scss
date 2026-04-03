@@ -1,17 +1,25 @@
 /* Custom overrides applied after Minimal Mistakes loads */
 
+/* ============================================
+   GLOBAL HOVER BEHAVIOR
+   One pattern everywhere: blush underline → charcoal on hover.
+   Non-text links (nav, buttons, icons): color shift only.
+   ============================================ */
+
 /* Links — charcoal text with blush underline (Option D) */
 a {
   text-decoration: none;
   border-bottom: 2px solid #E8D4C6;
-  transition: border-color 0.2s ease;
+  transition: border-color 0.2s ease, color 0.2s ease;
 
-  &:hover {
+  &:hover,
+  &:focus {
+    text-decoration: none;
     border-bottom-color: #2D3436;
   }
 }
 
-/* Remove underline from nav, buttons, images, and other non-text links */
+/* Non-text links: no underline, color shift only */
 .masthead a,
 .pagination a,
 .nav__list a,
@@ -24,9 +32,60 @@ a {
 .search-content a,
 .page__footer a,
 .page__footer-follow a,
+.site-title,
+.greedy-nav a,
+.greedy-nav .visible-links a,
 a[class*="btn"],
 a > img {
   border-bottom: none;
+  text-decoration: none;
+
+  &:hover,
+  &:focus {
+    text-decoration: none;
+    border-bottom: none;
+  }
+}
+
+/* Site title — color shift on hover */
+.site-title {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-weight: 600;
+  font-size: 1.4em;
+  color: #2D3436;
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: #636e72;
+  }
+}
+
+/* Masthead nav links — color shift on hover */
+.greedy-nav a,
+.greedy-nav .visible-links a {
+  color: #2D3436;
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: #636e72;
+    text-decoration: none;
+  }
+
+  &::before {
+    display: none;
+  }
+}
+
+/* Archive/post list titles — color shift on hover */
+.archive__item-title a {
+  color: #2D3436;
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-weight: 500;
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: #636e72;
+  }
 }
 
 /* Headings — Cormorant Garamond serif */
@@ -39,13 +98,6 @@ h1, h2, h3 {
 h4, h5, h6 {
   font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
   font-weight: 500;
-}
-
-/* Site title in masthead */
-.site-title {
-  font-family: 'Cormorant Garamond', Georgia, serif;
-  font-weight: 600;
-  font-size: 1.4em;
 }
 
 /* Author sidebar — blush border on avatar to match landing page */
