@@ -1,0 +1,101 @@
+/* Custom overrides applied after Minimal Mistakes loads */
+
+/* Links — charcoal text with blush underline (Option D) */
+a {
+  text-decoration: none;
+  border-bottom: 2px solid #E8D4C6;
+  transition: border-color 0.2s ease;
+
+  &:hover {
+    border-bottom-color: #2D3436;
+  }
+}
+
+/* Remove underline from nav, buttons, images, and other non-text links */
+.masthead a,
+.pagination a,
+.nav__list a,
+.page__taxonomy a,
+.btn,
+.back-to-top,
+.author__urls a,
+.archive__item-title a,
+.toc a,
+.search-content a,
+a[class*="btn"],
+a > img {
+  border-bottom: none;
+}
+
+/* Headings — Cormorant Garamond serif */
+h1, h2, h3 {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+h4, h5, h6 {
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-weight: 500;
+}
+
+/* Site title in masthead */
+.site-title {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-weight: 600;
+  font-size: 1.4em;
+}
+
+/* Author sidebar — blush border on avatar to match landing page */
+.author__avatar img {
+  border: 3px solid #E8D4C6;
+}
+
+/* Author name in sidebar */
+.author__name {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-weight: 600;
+}
+
+/* Footer — clean, minimal */
+.page__footer {
+  background-color: #FBF2ED;
+  border-top: 1px solid #CECED7;
+  color: #636e72;
+}
+
+.page__footer footer {
+  color: #636e72;
+}
+
+/* Pagination links */
+.pagination a {
+  color: #2D3436;
+
+  &:hover {
+    background-color: #E8D4C6;
+  }
+}
+
+/* Tag/category badges */
+.page__taxonomy-item {
+  border-color: #CECED7;
+  color: #2D3436;
+  background-color: transparent;
+
+  &:hover {
+    background-color: #CDD5C6;
+    color: #2D3436;
+  }
+}
+
+/* Related posts heading */
+.page__related-title {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+}
+
+/* Search input */
+.search-input {
+  background-color: #FBF2ED;
+  border-bottom-color: #CECED7;
+}

@@ -1,0 +1,26 @@
+/* Blog reskin — matches pdebruin.org landing page design system */
+
+/* Typography */
+$serif: 'Cormorant Garamond', Georgia, serif;
+$sans-serif: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+$global-font-family: $sans-serif;
+$header-font-family: $serif;
+$caption-font-family: $sans-serif;
+
+/* Colors — landing page palette */
+$background-color: #FBF2ED;      /* Warm cream */
+$text-color: #2D3436;            /* Dark charcoal */
+$muted-text-color: #636e72;      /* Charcoal light */
+$primary-color: #2D3436;         /* Charcoal — used for masthead, nav */
+$border-color: #CECED7;          /* Lavender gray */
+$footer-background-color: #FBF2ED; /* Cream — keep footer seamless */
+$code-background-color: #f5ede6; /* Slightly darker cream for code blocks */
+
+/* Links — Option D: charcoal text, blush underline */
+$link-color: #2D3436;
+$link-color-hover: #2D3436;
+$link-color-visited: #636e72;
+
+/* Navigation */
+$masthead-link-color: #2D3436;
+$masthead-link-color-hover: #636e72;
