@@ -83,14 +83,14 @@ Override the remote theme's defaults via Sass variables and custom CSS. Minimal 
 
 ### What to override
 
-- [ ] **Colors** — Replace "air" skin values with landing page palette
-- [ ] **Fonts** — Self-hosted Cormorant Garamond + Outfit, override `$serif` / `$sans-serif` / `$global-font-family`
-- [ ] **Background** — Flat warm cream (`#FBF2ED`), no gradient
-- **Links** — Charcoal text + blush underline, darken on hover
-- [ ] **Author sidebar** — Update avatar treatment (B&W circular with blush border, matching landing page headshot style)
-- [ ] **Headings** — Cormorant Garamond serif for `h1`–`h3`, Outfit for smaller
-- [ ] **Footer** — Match landing page footer style, link to pdebruin.org
-- [ ] **Favicon** — Replace current with serif "P" from landing page
+- [x] **Colors** — Replace "air" skin values with landing page palette
+- [x] **Fonts** — Self-hosted Cormorant Garamond + Outfit, override `$serif` / `$sans-serif` / `$global-font-family`
+- [x] **Background** — Flat warm cream (`#FBF2ED`), no gradient
+- [x] **Links** — Charcoal text + blush underline, darken on hover
+- [x] **Author sidebar** — B&W headshot with blush border, 3 links (pdebruin.org, LinkedIn, GitHub)
+- [x] **Headings** — Cormorant Garamond serif for `h1`–`h3`, Outfit for `h4`–`h6`
+- [x] **Footer** — Cream background, lavender divider, 3 links matching sidebar
+- [x] **Favicon** — Serif "P" from landing page
 
 ### What to keep as-is
 
@@ -106,7 +106,7 @@ Override the remote theme's defaults via Sass variables and custom CSS. Minimal 
 
 ## Open Questions
 
-- [ ] **Search styling** — Minimal Mistakes search works but may need palette adjustments
+- [ ] **Search styling** — Minimal Mistakes search works but may need palette adjustments after reskin
 
 ---
 
@@ -134,6 +134,13 @@ Override the remote theme's defaults via Sass variables and custom CSS. Minimal 
 - **Animations:** None. The landing page fade-in-up was intentional for a first-impression page. For a blog where people come back weekly, skip it.
 - **Social sharing:** Remove custom LinkedIn share button. Clean is better — readers can copy the URL.
 - **Link color — Option D:** Charcoal text (`#2D3436`) with blush (`#E8D4C6`) underline. Hover: underline darkens to charcoal. Sky blue (`#CDEFFE`) fails WCAG on cream — too light for text. Blush underline keeps links within the palette, passes AAA contrast, and feels warm.
+- **Analytics:** Keep existing custom Application Insights analytics as-is.
+- **Hover behavior — two patterns only:** (1) Post body links: blush underline → charcoal underline. (2) All UI links (nav, sidebar, footer, post titles): charcoal → charcoal-light (lighten on hover). Masthead nav also gets sky blue underline on hover as an accent.
+- **Accent color roles:** Blush = personal (avatar border, link underlines). Sky blue = interactive (masthead nav hover underline). Lavender = structural (borders, dividers, pagination hover, prev/next). Sage = tag/category hover fills.
+- **Typography tightening:** Nav/menu weights capped at 500 (Outfit only loads 300–500). Related posts heading uses sans not serif (too spindly at 12px). Archive titles explicit Outfit.
+- **About page:** Keep as-is — it describes the blog, not the person. Landing page handles "about me."
+- **Sidebar/footer link label:** Changed "www" → "pdebruin.org" — clear, professional.
+- **Focus outline:** Replaced browser blue focus ring with subtle lavender outline on `:focus-visible` (keyboard nav only). No outline on mouse click/right-click.
 
 ---
 
