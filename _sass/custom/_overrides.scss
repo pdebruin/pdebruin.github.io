@@ -103,23 +103,18 @@ h4, h5, h6 {
 
 /* Author sidebar — blush border on avatar to match landing page */
 .author__avatar {
-  a {
-    border-bottom: none;
+  a,
+  a:hover,
+  a:focus {
+    border: none !important;
+    border-bottom: none !important;
     text-decoration: none;
-
-    &:hover,
-    &:focus {
-      border-bottom: none;
-      text-decoration: none;
-    }
   }
 
-  img {
-    border: 3px solid #E8D4C6;
-
-    &:hover {
-      border-color: #E8D4C6;
-    }
+  img,
+  img:hover {
+    border: 3px solid #E8D4C6 !important;
+    padding: 5px;
   }
 }
 
