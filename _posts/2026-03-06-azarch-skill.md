@@ -1,5 +1,5 @@
 ---
-title: "AI agent skills"
+title: "Azure architecture skills"
 description: "MCP Servers provide knowledge and skills provide behavior — together they make AI agents more capable and specific."
 categories:
   - Learning
