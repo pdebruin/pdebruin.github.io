@@ -1,6 +1,6 @@
 ---
 title: "Foundry Local"
-description: "A local AI doc assistant that combines on-device inference with Foundry Local and grounded documentation retrieval from Learn MCP Server — no API keys needed."
+description: "A local AI doc assistant that combines on-device inference with Foundry Local and grounded documentation retrieval from Learn MCP Server. No API keys needed."
 categories:
   - Learning
 tags:
@@ -17,7 +17,7 @@ I built a small app that combines Foundry Local (on-device inference with phi-4-
 User Question → Foundry Local (phi-4-mini) → Learn MCP Server → Grounded Answer
 ```
 
-It's adapted from the Foundry Local tutorial-tool-calling sample, replacing the weather tool with a docs search tool. The key design choice is `tool_choice: required` — the model always searches before answering.
+It's adapted from the Foundry Local tutorial-tool-calling sample, replacing the weather tool with a docs search tool. The key design choice: `tool_choice: required`, which means the model always searches before answering.
 
 [Repo](https://github.com/pdebruin/learn-mcp-foundry-local)
 

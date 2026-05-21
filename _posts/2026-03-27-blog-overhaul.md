@@ -1,6 +1,6 @@
 ---
 title: "Blog overhaul"
-description: "Used GitHub Copilot CLI to add alt text to 80 posts, meta descriptions to 150 posts, fix images, and backfill five draft posts from LinkedIn — all in one weekend."
+description: "Used GitHub Copilot CLI to add alt text to 80 posts, meta descriptions to 150 posts, fix images, and backfill five draft posts from LinkedIn, all in one weekend."
 categories:
   - Learning
 tags:
