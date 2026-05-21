@@ -9,6 +9,8 @@ tags:
 
 What if your AI assistant ran entirely on your device but still had access to up-to-date Microsoft docs?
 
+![screenshot of Foundry Local + Learn MCP Server](/assets/images/2026-04-10-foundry-local.jpg)
+
 I built a small app that combines Foundry Local (on-device inference with phi-4-mini) and Learn MCP Server (documentation retrieval). You ask a question, the local model calls a search tool, gets doc content from Learn, and synthesizes a grounded answer. No API keys, no cloud LLM costs.
 
 ```
@@ -20,7 +22,5 @@ It's adapted from the Foundry Local tutorial-tool-calling sample, replacing the 
 [Repo](https://github.com/pdebruin/learn-mcp-foundry-local)
 
 [Discussion](https://github.com/MicrosoftDocs/mcp/discussions/151)
-
-![screenshot of Foundry Local + Learn MCP Server](/assets/images/2026-04-10-foundry-local.jpg)
 
 Thanks for reading! :-)
