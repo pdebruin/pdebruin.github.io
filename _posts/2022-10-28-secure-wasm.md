@@ -14,9 +14,9 @@ At KubeCon in Detroit there was much attention for webassembly, a very interesti
 
 Creating WebAssembly with Blazor is easy. Now there is more guidance on how to secure those. 
 
-[Secure Webassembly](https://learn.microsoft.com/aspnet/core/blazor/security/webassembly?wt.mc_id=pdebruin_content_blog_cnl_csasci)
+[Secure Webassembly](https://learn.microsoft.com/aspnet/core/blazor/security/webassembly)
 
-[Secure a hosted WebAssembly app with Entra ID](https://learn.microsoft.com/en-us/aspnet/core/blazor/security/webassembly/hosted-with-microsoft-entra-id?wt.mc_id=pdebruin_content_blog_cnl_csasci)
+[Secure a hosted WebAssembly app with Entra ID](https://learn.microsoft.com/en-us/aspnet/core/blazor/security/webassembly/hosted-with-microsoft-entra-id)
 
 Thanks for reading! :-)
 

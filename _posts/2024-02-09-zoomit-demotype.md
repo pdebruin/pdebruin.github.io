@@ -11,6 +11,6 @@ Sysinternals is a collection of tools, started ages by Mark Russinovich. One of 
 
 ![ZoomIt DemoType](/assets/images/2024-02-09-zoomit-demotype.png)
 
-[Documentation](https://learn.microsoft.com/sysinternals/downloads/zoomit?wt.mc_id=pdebruin_content_blog_cnl_csasci)
+[Documentation](https://learn.microsoft.com/sysinternals/downloads/zoomit)
 
 Thanks for reading! :-)

@@ -14,7 +14,7 @@ The recording of dotnetconf with a focus on AI is here: 8 hours of in-depth cont
 
 [Slides repo](https://github.com/dotnetConf/FocusOnAI_24)
 
-[Learn collection](https://learn.microsoft.com/collections/egmeinoxwm4mpy?wt.mc_id=pdebruin_content_blog_cnl_csasci)
+[Learn collection](https://learn.microsoft.com/collections/egmeinoxwm4mpy)
 
 Full agenda:
 State of .NET + AI - Scott Hanselman, Maria Naggaga 

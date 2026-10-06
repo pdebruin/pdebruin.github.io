@@ -12,8 +12,8 @@ Microsoft Learn is the authority for documentation and training content of Micro
 
 ![Microsoft Learn contributor home page with Create, contribute, share headline and Join experts and contribute call to action](/assets/images/2023-08-25-microsoft-learn-contributor-home.jpg)
 
-[Announcement](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/welcome-to-the-microsoft-learn-contributor-home/ba-p/3895492?wt.mc_id=pdebruin_content_blog_cnl_csasci)
+[Announcement](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/welcome-to-the-microsoft-learn-contributor-home/ba-p/3895492)
 
-[Contributor home](https://learn.microsoft.com/contribute/?wt.mc_id=pdebruin_content_blog_cnl_csasci)
+[Contributor home](https://learn.microsoft.com/contribute/)
 
 Thanks for reading! :-)

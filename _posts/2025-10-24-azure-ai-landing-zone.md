@@ -14,7 +14,7 @@ I like that it covers the full stack from infrastructure to security, so you don
 
 ![Diagram of Azure AI Landing Zone](/assets/images/2025-10-24-azure-ai-landing-zone.jpg)
 
-[Blog post](https://techcommunity.microsoft.com/blog/AzureArchitectureBlog/accelerating-enterprise-ai-adoption-with-azure-ai-landing-zone/4460199?wt.mc_id=pdebruin_content_blog_cnl_csasci)
+[Blog post](https://techcommunity.microsoft.com/blog/AzureArchitectureBlog/accelerating-enterprise-ai-adoption-with-azure-ai-landing-zone/4460199)
 
 [Repository](https://github.com/Azure/AI-Landing-Zones)
 

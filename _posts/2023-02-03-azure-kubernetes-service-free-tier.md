@@ -7,7 +7,7 @@ tags:
   - Kubernetes
 ---
 
-Last week the [free tier](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-kubernetes-service-free-tier-and-standard-tier/ba-p/3731432?wt.mc_id=pdebruin_content_blog_cnl_csasci) for [Azure Kubernetes Service](https://learn.microsoft.com/azure/aks/intro-kubernetes?wt.mc_id=pdebruin_content_blog_cnl_csasci) was announced. Although it is correct, it also requires elaboration.
+Last week the [free tier](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-kubernetes-service-free-tier-and-standard-tier/ba-p/3731432) for [Azure Kubernetes Service](https://learn.microsoft.com/azure/aks/intro-kubernetes) was announced. Although it is correct, it also requires elaboration.
 
 Kubernetes and other container management technologies consist of [various components](https://kubernetes.io/docs/concepts/overview/components/). Most important for cost are the two types of nodes: managers and workers. These are relevant because commercial vendors may charge a license fee for nodes. And in the cloud you pay as you go for compute, storage and network capacity, so that can be another cost item. When three management instances per cluster are required for availability, these cost of machines plus licenses can add up. So one optimization AKS did, was to design the managed service so that managers were out of the customer's control, including maintenance and cost, and could be optimized for multi-tenancy.
 
@@ -19,7 +19,7 @@ When AKS started, and even before with Azure Container Service, the management i
 
 So did anything else change? Well the AKS product group are very active and open. [Lots of excitement happening](https://github.com/Azure/AKS/projects/1).
 
-When you are considering AKS for production use, look at [the baseline architecture](https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks?wt.mc_id=pdebruin_content_blog_cnl_csasci) for AKS as a starting point.
+When you are considering AKS for production use, look at [the baseline architecture](https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks) for AKS as a starting point.
 PS: I could do separate posts about AKS
 PPS: I could add specific AKS cost management options here
 

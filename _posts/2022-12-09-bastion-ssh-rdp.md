@@ -8,7 +8,7 @@ tags:
   - Security
 ---
 
-In previous episodes you may have witnessed me use a virtual machine in Azure. I always do that using [Azure Bastion](https://learn.microsoft.com/azure/bastion/bastion-overview?wt.mc_id=pdebruin_content_blog_cnl_csasci), which gives you secure access to Linux and Windows virtual machines using SSH or RDP over HTTPS, without exposing the VMs to the internet.
+In previous episodes you may have witnessed me use a virtual machine in Azure. I always do that using [Azure Bastion](https://learn.microsoft.com/azure/bastion/bastion-overview), which gives you secure access to Linux and Windows virtual machines using SSH or RDP over HTTPS, without exposing the VMs to the internet.
 
 ![Azure Bastion architecture diagram showing secure SSH and RDP access over HTTPS](/assets/images/2022-12-09-bastion-ssh-rdp.png)
 
@@ -41,6 +41,6 @@ Note that for cost control I always enable auto-shutdown (22:00 local time) with
 
 Once the VM is created, you can use the Azure Portal to navigate to the VM, click connect, Bastion, enter credentials, and do your work. 
 
-You can even use azcli to connect your shell or VS Code to an Azure VM using bastion. Read [Jose's post](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/accessing-aks-private-clusters-with-azure-bastion-and-vs-code/ba-p/3581367?wt.mc_id=pdebruin_content_blog_cnl_csasci) for details.
+You can even use azcli to connect your shell or VS Code to an Azure VM using bastion. Read [Jose's post](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/accessing-aks-private-clusters-with-azure-bastion-and-vs-code/ba-p/3581367) for details.
 
 Thanks for reading! :-)

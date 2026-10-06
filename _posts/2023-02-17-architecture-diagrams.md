@@ -18,7 +18,7 @@ In preparation of this post I remembered a presentation called "Draw like an arc
 Then when you are starting, you may prefer a blank sheet. Or maybe you like to reuse an existing diagram, either because it is close to your envisioned solution, or because you like its format. Note that you can download diagrams from Azure architecture center to benefit. 
 
 Just like reusing diagrams, you can reuse icons 
-https://learn.microsoft.com/azure/architecture/icons/?wt.mc_id=pdebruin_content_blog_cnl_csasci
+https://learn.microsoft.com/azure/architecture/icons/
 
 Creating cool, glowing architecture diagrams
 https://www.youtube.com/watch?v=QR-64mFqhf4
@@ -31,7 +31,7 @@ Martin Fowler?
 
 Dark vs light
 
-Last week the [free tier](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-kubernetes-service-free-tier-and-standard-tier/ba-p/3731432?wt.mc_id=pdebruin_content_blog_cnl_csasci) for [Azure Kubernetes Service](https://learn.microsoft.com/azure/aks/intro-kubernetes?wt.mc_id=pdebruin_content_blog_cnl_csasci) was announced. Although it is correct, it also requires elaboration.
+Last week the [free tier](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-kubernetes-service-free-tier-and-standard-tier/ba-p/3731432) for [Azure Kubernetes Service](https://learn.microsoft.com/azure/aks/intro-kubernetes) was announced. Although it is correct, it also requires elaboration.
 
 ![AKS architecture diagram showing control plane and node pool tiers](/assets/images/2023-02-03-azure-kubernetes-service-free-tier.png)
 

@@ -7,7 +7,7 @@ tags:
   - Devops
 ---
 
-During my work with customers everyday, I have met various types and sizes of organizations. Sure, this would vary depending on the organization or department I was working for. Now in Microsoft Learn, I also see that: Azure is a platform that can run your infrastructure and your apps, regardless what your organization looks like. For instance, you can deploy [enterprise-scale landing zones](https://learn.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/?wt.mc_id=pdebruin_content_blog_cnl_csasci) but you can also run many things for [free](https://azure.microsoft.com/pricing/free-services/). You can [start there](
+During my work with customers everyday, I have met various types and sizes of organizations. Sure, this would vary depending on the organization or department I was working for. Now in Microsoft Learn, I also see that: Azure is a platform that can run your infrastructure and your apps, regardless what your organization looks like. For instance, you can deploy [enterprise-scale landing zones](https://learn.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/) but you can also run many things for [free](https://azure.microsoft.com/pricing/free-services/). You can [start there](
 https://azure.microsoft.com/pricing/purchase-options/azure-account) today.
 
 ![Azure pricing page comparing Azure free account and Pay as you go options with feature lists and free tier benefits](/assets/images/2024-07-05-startup-on-azure1.jpg)

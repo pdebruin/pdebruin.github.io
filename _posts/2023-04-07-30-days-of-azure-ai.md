@@ -13,6 +13,6 @@ There is so much news around artificial intelligence 🧠, generative pre-traine
 
 ![30 Days of Azure AI campaign banner for AI April](/assets/images/2023-04-07-30-days-of-azure-ai.jpeg)
 
-[Join #30DaysOfAzureAI](https://azureaidevs.github.io/hub/azure-ai-devs?wt.mc_id=pdebruin_content_blog_cnl_csasci)
+[Join #30DaysOfAzureAI](https://azureaidevs.github.io/hub/azure-ai-devs)
 
 Thanks for reading! :-)

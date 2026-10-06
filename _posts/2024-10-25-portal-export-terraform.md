@@ -15,6 +15,6 @@ Let's start at the beginning: The Azure portal is great to experiment with creat
 
 Suppose you have created resource groups and resources in Azure through the portal and now want to start automating it. That is where this new functionality comes in, especially if your organization standarizes on terraform which supports other clouds, or bicep which is a more accessible form of ARM. Use whatever tool works for you. 
 
-[Documentation](https://learn.microsoft.com/azure/developer/terraform/azure-terraform-resource-provider/resource-provider-overview?wt.mc_id=pdebruin_content_blog_cnl_csasci)
+[Documentation](https://learn.microsoft.com/azure/developer/terraform/azure-terraform-resource-provider/resource-provider-overview)
 
 Thanks for reading! :-)

@@ -12,6 +12,6 @@ If you’ve been thinking of infusing your existing .NET apps with generative AI
 
 ![.NET plus AI Quickstarts promotional graphic with brain-shaped cloud icon and computer illustration](/assets/images/2024-03-15-dotnet-ai-quickstarts.jpg)
 
-[Source](https://devblogs.microsoft.com/dotnet/get-started-with-dotnet-ai-quickstarts/?wt.mc_id=pdebruin_content_blog_cnl_csasci)
+[Source](https://devblogs.microsoft.com/dotnet/get-started-with-dotnet-ai-quickstarts/)
 
 Thanks for reading! :-)

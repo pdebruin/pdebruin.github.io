@@ -15,6 +15,6 @@ For instance, there are 27 templates for 'rag chat', so that could be your next 
 
 [AI app template gallery](https://azure.github.io/ai-app-templates)
 
-[Announcement](https://techcommunity.microsoft.com/blog/educatordeveloperblog/kickstart-your-ai-journey-using-azure-ai-app-templates-to-build-ai-applications/4304620?wt.mc_id=pdebruin_content_blog_cnl_csasci)
+[Announcement](https://techcommunity.microsoft.com/blog/educatordeveloperblog/kickstart-your-ai-journey-using-azure-ai-app-templates-to-build-ai-applications/4304620)
 
 Thanks for reading! :-)

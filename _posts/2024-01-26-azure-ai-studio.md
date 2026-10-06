@@ -13,8 +13,8 @@ Dive into Azure AI Studio to learn how your customers can build generative AI ap
 
 [Video](https://www.youtube.com/watch?v=--wUqOeAzWU)
 
-[Documentation](https://learn.microsoft.com/azure/ai-studio/what-is-ai-studio?wt.mc_id=pdebruin_content_blog_cnl_csasci)
+[Documentation](https://learn.microsoft.com/azure/ai-studio/what-is-ai-studio)
 
-[Learning path](https://learn.microsoft.com/en-gb/training/paths/create-custom-copilots-ai-studio/?wt.mc_id=pdebruin_content_blog_cnl_csasci)
+[Learning path](https://learn.microsoft.com/en-gb/training/paths/create-custom-copilots-ai-studio/)
 
 Thanks for reading! :-)

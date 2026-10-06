@@ -34,6 +34,6 @@ aks
 opensource.microsoft.com
 Many projects are open including Code, Kubernetes Event-driven Autoscaling, TypeScript, 
 
-[FOSS] (https://cloudblogs.microsoft.com/opensource/2022/10/24/making-culture-count-for-open-source-sustainability-celebrating-foss-fund-25/?wt.mc_id=pdebruin_content_blog_cnl_csasci)
+[FOSS] (https://cloudblogs.microsoft.com/opensource/2022/10/24/making-culture-count-for-open-source-sustainability-celebrating-foss-fund-25/)
 
 Thanks for reading! :-)

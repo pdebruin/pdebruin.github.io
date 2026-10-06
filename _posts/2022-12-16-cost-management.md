@@ -7,11 +7,11 @@ tags:
   - Architecture
 ---
 
-There is a new [cost optimization campaign](https://azure.microsoft.com/solutions/do-more-with-less/?wt.mc_id=pdebruin_content_blog_cnl_csasci), which reminded me I haven't blogged about cost management yet.
+There is a new [cost optimization campaign](https://azure.microsoft.com/solutions/do-more-with-less/), which reminded me I haven't blogged about cost management yet.
 
 The cloud gives you both more possibilities as well as more responsibilities. For instance, I can deploy a website in Brazil, a function in South Africa and a Kubernetes cluster as big as my core quota allows in Australia, all within a couple of minutes of time, right from my home office in the Netherlands.
 
-In the cloud you don't own physical assets but you do have to pay for what services you use. This is so important, that [cost optimization](https://learn.microsoft.com/azure/architecture/framework/cost/overview?wt.mc_id=pdebruin_content_blog_cnl_csasci) is part of the well-architected framework, since a solution can be functionally perfect, but if the cost are too high, it will not be a success.
+In the cloud you don't own physical assets but you do have to pay for what services you use. This is so important, that [cost optimization](https://learn.microsoft.com/azure/architecture/framework/cost/overview) is part of the well-architected framework, since a solution can be functionally perfect, but if the cost are too high, it will not be a success.
 
 Before you start deploying resources in Azure, you should work with the pricing calculator to understand the cost impact of your solution. If this is too complex, ask for help. You really want to know what your solution will cost in various environments before turning it on.
 

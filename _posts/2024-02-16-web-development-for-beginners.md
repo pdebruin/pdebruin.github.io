@@ -12,8 +12,8 @@ Get ready to build your next great web app with .NET! ASP.NET Core is a fully fe
 
 ![Front-end Web Development with .NET for Beginners promotional graphic with purple geometric cube shapes](/assets/images/2024-02-16-web-development-for-beginners.jpg)
 
-[Videos](https://learn.microsoft.com/shows/frontend-web-development-with-dotnet-for-beginners/?wt.mc_id=pdebruin_content_blog_cnl_csasci)
+[Videos](https://learn.microsoft.com/shows/frontend-web-development-with-dotnet-for-beginners/)
 
-[More beginners series](https://learn.microsoft.com/shows/browse?terms=beginners&wt.mc_id=pdebruin_content_blog_cnl_csasci) including serverless, machine learning and artificial intelligence, containers, and programming languages such as java, nodejs, python, c#, f#, blazor
+[More beginners series](https://learn.microsoft.com/shows/browse?terms=beginners) including serverless, machine learning and artificial intelligence, containers, and programming languages such as java, nodejs, python, c#, f#, blazor
 
 Thanks for reading! :-)

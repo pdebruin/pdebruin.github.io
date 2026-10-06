@@ -13,7 +13,7 @@ The #30DaysOfMSGraph - Microsoft Graph Pilot Learning Program, welcomes you to c
 
 The challenge runs from November 1-30, 2022.
 
-Read more in the [introduction post](https://devblogs.microsoft.com/microsoft365dev/announcement-30-days-of-microsoft-graph-challenge?wt.mc_id=pdebruin_content_blog_cnl_csasci) and the [program roadmap](https://microsoft.github.io/30daysof/docs/roadmaps/microsoft-graph?wt.mc_id=pdebruin_content_blog_cnl_csasci).
+Read more in the [introduction post](https://devblogs.microsoft.com/microsoft365dev/announcement-30-days-of-microsoft-graph-challenge) and the [program roadmap](https://microsoft.github.io/30daysof/docs/roadmaps/microsoft-graph).
 
 ![30 Days of Microsoft Graph challenge banner for November 2022](/assets/images/2022-11-04-30-days-of-microsoft-graph.jpeg)
 
